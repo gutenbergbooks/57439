@@ -1,29 +1,7 @@
-The Project Gutenberg EBook of The Catholic World, Vol. 09, April,
-1869-September, 1869, by Various
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: The Catholic World, Vol. 09, April, 1869-September, 1869
-
-Author: Various
-
-Release Date: July 3, 2018 [EBook #57439]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK CATHOLIC WORLD, APR/1869-SEPT/1869 ***
+*** START OF THE PROJECT GUTENBERG EBOOK 57439 ***
 
 
 
-
-Produced by Don Kostuch
 
 
 
@@ -208,7 +186,7 @@ Produced by Don Kostuch
 
 
   Allies's Formation of Christendom, 283.
-  Anne Séverin, 286.
+  Anne SÃ©verin, 286.
   Auerbach's Black Forest, 424.
   Ark of the Covenant, The, 427.
   Ark of Elm Island, 428.
@@ -237,7 +215,7 @@ Produced by Don Kostuch
 
   Free Masons, The, 426.
   Fernecliffe, 428.
-  Fénélon's Conversations with de Ramsai, 573.
+  FÃ©nÃ©lon's Conversations with de Ramsai, 573.
 
   Glimpses of Pleasant Homes, 423.
 
@@ -257,7 +235,7 @@ Produced by Don Kostuch
   McClure's Poems, 288.
   Manual of General History, 288.
   Martineau's Biographical Sketches, 425.
-  Müller's Chips from a German Workshop, 571.
+  MÃ¼ller's Chips from a German Workshop, 571.
   Mental Photographs, 576.
   Mother Margaret M. Hallahan, Life of, 714.
   Meditations on the Suffering of our Lord Jesus Christ, 856.
@@ -364,7 +342,7 @@ and astonished at her matchless learning.
 
 All the students of Rome, and even professors, flocked to hear
 her. On the death of Leo, she was elected pope by the clergy and
-people of Rome from among many men preëminent for their learning
+people of Rome from among many men preÃ«minent for their learning
 and virtue. After governing with great wisdom for more than two
 years--there being not the slightest suspicion of her sex--she
 left the Vatican on a certain festival at the head of the clergy,
@@ -481,7 +459,7 @@ of which a polemic writer is alone capable, for every--even the
 smallest--fragment or thread connected with this subject.
 Nevertheless, this ransacking was neither so thorough nor so
 successful as during the present century; for, as the learned
-Döllinger states, "it is only within forty years that all the
+DÃ¶llinger states, "it is only within forty years that all the
 European collections of mediaeval MSS. have been investigated
 with unprecedented care, every library, nook, and corner
 thoroughly searched, and a surprising quantity of hitherto
@@ -507,7 +485,7 @@ positive assertion.
 But the testimony of the Marianus chronicle comes to still
 greater grief, And here a word of explanation. The Original MS.
 Of Marianus is not known to exist, but we have numerous copies of
-it, the respective ages of which are well ascertained. Döllinger
+it, the respective ages of which are well ascertained. DÃ¶llinger
 mentions two of them well known in Germany to be the oldest in
 existence, in which not a word concerning the popess can be
 found. The copy in which it is found is of 1513, and the
@@ -616,8 +594,8 @@ public nature not mentioned by any writer within two hundred
 years of its supposed occurrence is not to be believed. This is
 the same Launoy who waged war on the legends of the saints,
 claiming that much fabulous matter had crept into them. On this
-account he was called "Dénicheur des Saints"--the Saint-hunter or
-router--and the Abbé of St. Roch used to say, "I am always
+account he was called "DÃ©nicheur des Saints"--the Saint-hunter or
+router--and the AbbÃ© of St. Roch used to say, "I am always
 profoundly polite to Launoy, for fear he will deprive me of St.
 Roch." The general rule (Launoy's) so important in historical
 criticism is in perfect harmony with a great and leading
@@ -649,7 +627,7 @@ century. This method is entirely broken up in those MSS. which
 contain the passage concerning Joan, and the rage to get the
 passage in was such that in one copy (the Heidelberg MS.)
 Benedict III. is left out entirely and Joan put in his place. Dr.
-Döllinger and the learned Bayle concur in the opinion that the
+DÃ¶llinger and the learned Bayle concur in the opinion that the
 passage never had any existence in the original work of Polonus.
 
 And just at this juncture the testimony of Tolomeo di Lucca
@@ -746,11 +724,11 @@ of the popess.
 Suddenly we find extraordinary industry exercised in multiplying
 and spreading the copies of Polonus containing the story, and in
 inserting it in other chronicles that did not contain it. As the
-editors of the _Histoire Littéraire e France_ aptly remark:
+editors of the _Histoire LittÃ©raire e France_ aptly remark:
 "Nous ne saurions nous expliquer comment il se fait que ce soit
-précisëment dans les rangs de cette fidèle milice du saint-siège
-que se rencontrent les propagateurs les plus naïfs, et peut-être
-les inventeurs, d'une histoire si injurieuse à la papauté."
+prÃ©cisÃ«ment dans les rangs de cette fidÃ¨le milice du saint-siÃ¨ge
+que se rencontrent les propagateurs les plus naÃ¯fs, et peut-Ãªtre
+les inventeurs, d'une histoire si injurieuse Ã  la papautÃ©."
 [Footnote 4]
 
     [Footnote 4: "We cannot understand how it is that, precisely
@@ -758,7 +736,7 @@ les inventeurs, d'une histoire si injurieuse à la papauté."
     find the most credulous propagators and, perhaps, inventors
     of a story so injurious to the papacy."]
 
-Dr. Döllinger answers this by stating that those who appeared to
+Dr. DÃ¶llinger answers this by stating that those who appeared to
 be most active in the matter were Dominicans and Minorites,
 particularly the former, (Sie waren es ja, besonders die ersten.)
 This is specially to be remarked under the primacy of Boniface
@@ -850,7 +828,7 @@ have succeeded Leo IV.
 
 {9}
 
-Lupo, Abbot of Ferrières, in a letter to Pope Benedict, says that
+Lupo, Abbot of FerriÃ¨res, in a letter to Pope Benedict, says that
 he, the abbot, had been kindly received at Rome by his
 predecessor, Leo IV.
 
@@ -1084,7 +1062,7 @@ with great show of learning, espoused Joan's claims to existence.
 Nor were answers wanting; and, including those who had previously
 written on the subject, it was fully confuted by Aventinus,
 Onuphrius Pauvinius, Bellarmine, Serrarius, George Scherer,
-Robert Parsons, Florimond de Rémond, Allatius, and many others.
+Robert Parsons, Florimond de RÃ©mond, Allatius, and many others.
 
 The first Protestant to cast doubt on the fable was David
 Blondel. A minister of the Reformed Church, Professor of History
@@ -1124,7 +1102,7 @@ falsehood.
 There was no dearth of other Protestant protests against Joan.
 Casaubon, the most learned of the so-called reformers, laughed at
 the fable. So did Thuanus. Justus Lipsius said of it, "Revera
-fabella est haud longè ab audacia et ineptis poetarum." [Footnote
+fabella est haud longÃ¨ ab audacia et ineptis poetarum." [Footnote
 6] Schookius, professor at Groningen, totally disbelieved it. Dr.
 Burnet, Bishop of Salisbury, said, "I don't believe the history
 of Pope Joan," and gives his reasons. So, also, Dr. Bristow. Very
@@ -1177,7 +1155,7 @@ passes over the Joan story with contemptuous silence.
     [Footnote 8: Sept. 29, 855.]
 
 In his _Papst-Fabeln des Mittelalters_, the learned Dr.
-Döllinger has exhausted the erudition of the subject, and not
+DÃ¶llinger has exhausted the erudition of the subject, and not
 only demonstrated the utter unworthiness of the invention, but--
 what is for the first time done by him--points out the causes or
 sources of all the separate portions of the narrative. Thus, the
@@ -1443,7 +1421,7 @@ souls, and an admirable spirit of charity; and, besides all this,
 a divine and superior power. God will, as ever, accomplish his
 work there.
 
-"God," says Fénélon, "watches that the bishops may assemble when
+"God," says FÃ©nÃ©lon, "watches that the bishops may assemble when
 it is necessary, that they may be sufficiently instructed and
 attentive, and that no bad motive may induce those who are the
 guardians of the truth to make an untrue statement. There may be
@@ -3125,8 +3103,8 @@ really fine, grounds worth looking at, and a stone house with
 bronze lions at the door. I don't know what he has lions there
 for, unless to indicate that Snug the joiner lives within. I'm
 not afraid of 'em. You've never heard of him here; but out there
-he is tremendous. '_Imposteur à la Mecque, et prophète à
-Médine_.'
+he is tremendous. '_Imposteur Ã  la Mecque, et prophÃ¨te Ã 
+MÃ©dine_.'
 
 "Still there are people even here who blow about him. Psaphon's
 birds, of course, fed on Smith's oats, He hates me because he
@@ -4485,7 +4463,7 @@ In France, it is just the other way. The rate is,
   In Paris,                   27.
   Urban districts,            12.
   Rural districts              4.2
-  La Vendée,                   2.2
+  La VendÃ©e,                   2.2
   Brittany, Dep't. Cote D'Or,  1.2
 
 Brittany and La Vendee remained Catholic through the storm of the
@@ -4505,7 +4483,7 @@ Posen. [Footnote 37] The rate
   Rhineland,        3.3   Pomerania,         10.3
   Posen             6.8   Brandenburg,       12.0
 
-    [Footnote 37: _Historische Blätter_, 9th Heft, 1867.]
+    [Footnote 37: _Historische BlÃ¤tter_, 9th Heft, 1867.]
 
 Rev. T. W. Woolsey, of Yale College, New Haven, bears testimony
 to this relative state of morals in regard to the kindred subject
@@ -5262,7 +5240,7 @@ obliged to wear a last year's dress; but last year's dress was a
 very elegant one, and almost "as good as new;" for Mary, fine
 lady that she was, had the taste and grace of her station, and
 deft fingers, quick and willing servants of her will, that would
-do honor to any station; so her dress was all _à la mode_,
+do honor to any station; so her dress was all _Ã  la mode_,
 and Dick had reason to be proud of escorting her. She had,
 however, something more than her dress of which to be proud, or
 Dick would not have been so grateful for finding her his sister;
@@ -5503,24 +5481,24 @@ A careful computation of the comparative longevity, in the
 different departments of France, has been made for 1860 and the
 preceding years. The medium annual number of deaths in France, at
 the age of one hundred years and upward, is 148. The following
-fifteen _départements_, given in decreasing order, are those
+fifteen _dÃ©partements_, given in decreasing order, are those
 which have the greatest number: Basses-Pyrenees, Dordogne,
-Calvados, Gers, Puy-de-Dôme, Ariége, Aveyron, Gironde, Landes,
-Lot, Ardèche, Cantal, Doubs, Seine, Tarn-et-Garonne. It will be
+Calvados, Gers, Puy-de-DÃ´me, AriÃ©ge, Aveyron, Gironde, Landes,
+Lot, ArdÃ¨che, Cantal, Doubs, Seine, Tarn-et-Garonne. It will be
 seen that a great number of mountainous districts are to be found
 in these departments. It is surprising to see that of _la
 Seine_ on this list. Nevertheless these departments do not
 hold the same rank in respect to the ordinary duration of life;
 which would seem to prove that some examples of extreme longevity
 are not a sufficient index that a country is favorable to long
-life. I give their numbers in order: Basses-Pyrénées, 7;
-Dordogne, 42; Calvados, 2; Gers, 9; Puy-de-Dôme, 30; Ariége, 48;
-Aveyron, 34; Gironde, 18; Landes, 52; Lot, 33; Ardèche, 43;
+life. I give their numbers in order: Basses-PyrÃ©nÃ©es, 7;
+Dordogne, 42; Calvados, 2; Gers, 9; Puy-de-DÃ´me, 30; AriÃ©ge, 48;
+Aveyron, 34; Gironde, 18; Landes, 52; Lot, 33; ArdÃ¨che, 43;
 Cantal, 23; Doubs, 25; Seine, 53; Tarn-et-Garonne, 13.
 
 The fifteen departments in which ordinary life is most prolonged
 are: Orne, Calvados, Eure-et-Loir, Sarthe, Eure, Lot-et-Garonne,
-Deux-Sèvres, Indre-et-Loire, Basses-Pyrenees, Maine-et-Loire,
+Deux-SÃ¨vres, Indre-et-Loire, Basses-Pyrenees, Maine-et-Loire,
 Ardennes, Gers, Aube, Hautes-Pyrenees, et Haute-Garonne.
 
 It is evident that places need not be very remote from each other
@@ -5575,7 +5553,7 @@ frost, (which rendered him furious,) the king would have him
 assassinated; and this really happened on the twenty-third of
 December, 1588.
 
-The Duchess d'Abrantès says:
+The Duchess d'AbrantÃ¨s says:
 
   "Napoleon could not endure the least cold without immediate
   suffering. He had fires made in the month of July, and did not
@@ -5587,7 +5565,7 @@ The Duchess d'Abrantès says:
   other cause had prevented him from taking his accustomed walk,
   he was not only cross but suffering."
 
-We read in the Journal of Eugénie de Guerin:
+We read in the Journal of EugÃ©nie de Guerin:
 
   "With the rain, cold winds, wintry skies, the nightingales
   singing from time to time under the dead leaves, we have a
@@ -5609,8 +5587,8 @@ constitute not only the highest physical enjoyment but the
 indispensable conditions of health.
 
 The physical character of places has a truly astonishing effect
-upon man. A distinguished traveller, M. Trémaux, has endeavored
-to prove, in several _mémoires_ to the Académie des
+upon man. A distinguished traveller, M. TrÃ©maux, has endeavored
+to prove, in several _mÃ©moires_ to the AcadÃ©mie des
 Sciences, that man be changed from the Caucasian to the negro
 type simply by this influence. He calls attention to the
 coincidences that exist between the physical types and the
@@ -5626,7 +5604,7 @@ causes of a more secondary nature which are very complex.
 
 {77}
 
-The geological chart of Europe, says Mr. Trémaux, shows that the
+The geological chart of Europe, says Mr. TrÃ©maux, shows that the
 greatest surface of primitive rock formations is in Lapland,
 which possesses also the most inferior people; going to the south
 of Scandinavia, gneiss and granite occupy also a great part of
@@ -5709,7 +5687,7 @@ certain elevations in Thuringia and the Black Forest, was the
 first to advance the theory that phthisis diminishes according to
 certain altitudes.
 
-Dr. Brüggens, also, has since testified to the infrequency of
+Dr. BrÃ¼ggens, also, has since testified to the infrequency of
 this disease in the Swiss Alps, at the height of 4500 to 6000
 feet in the Engaddine; nor is it found among the monks of the
 Great Saint Bernard at the altitude of 6825 feet. According to M.
@@ -5741,7 +5719,7 @@ wanting, is in a hygrometrical condition more nearly approaching
 saturation than the lower regions, and that the rains are also
 more abundant there.
 
-It is desirable that the heights of Cévennes, the Pyrenees, the
+It is desirable that the heights of CÃ©vennes, the Pyrenees, the
 Alps, and, above all, the elevated parts of our Algerian
 possessions should be carefully studied, with a view to the
 treatment of lung diseases, which are the great scourge of the
@@ -5809,7 +5787,7 @@ prove the constancy and generality of the rule laid down by M.
 Junod. He noticed in most of the large cities this tendency of
 the wealthy class to move to the same side--generally, the
 western--unless hindered by certain local obstacles. Turin,
-Liége, and Caen are examples of this. M. Moquin-Tandon has
+LiÃ©ge, and Caen are examples of this. M. Moquin-Tandon has
 observed the same thing at Montpellier and at Toulouse. Paris and
 London also present analogous facts, although the rivers which
 traverse those two great centres flow in a diametrically
@@ -5868,7 +5846,7 @@ almost on a level with the sea, is the part principally
 inhabited. There are few villages in the interior of the island,
 but many private residences. The temperature on the shore, though
 very high, is less intense than is supposed: the medium
-temperature being between 40° and 50°. The sea and land breezes,
+temperature being between 40Â° and 50Â°. The sea and land breezes,
 which succeed each other morning and evening, refresh the
 atmosphere and maintain a healthy moisture. It hardly ever rains
 except during the winter, Besides, it is very easy to choose the
@@ -5889,8 +5867,8 @@ dwellings at one's choice, in some one of which desirable
 temperature can be enjoyed in any season.
 {81}
 I had three: one at St. Denis, capital of the colony, one at La
-Rivière-des-Pluies, and another at La Ressource. La
-Rivière-des-Pluies, belonging to M. Desbassayns, a venerable old
+RiviÃ¨re-des-Pluies, and another at La Ressource. La
+RiviÃ¨re-des-Pluies, belonging to M. Desbassayns, a venerable old
 man and president of the general council, is the finest situation
 on the island. It was formerly called the Versailles of Bourbon.
 I inhabited a summer-house above which the surrounding trees
@@ -5923,7 +5901,7 @@ clearly out, like silver clouds, the white sails from all parts
 of the world which had given each other _rendezvous_ here,
 and were constantly approaching this isle of lava, flowers,
 shadows, and light, which they had taken as the centre of
-_réunion_.
+_rÃ©union_.
 
 He made me afterward notice the verdant fields which had formerly
 belonged to the parents of Virginia, the heroine of the romance
@@ -6126,7 +6104,7 @@ thinking of this coincidence, noticed, on the other hand, that
 the hill behind the marsh entirely concealed the fine view which
 he would have from his palace, if it were removed. He gave orders
 to cut the hill down and to fill up the marsh with its
-_débris_, so that the winds which were formerly checked, had
+_dÃ©bris_, so that the winds which were formerly checked, had
 free circulation and purified the atmosphere, while the soil,
 thoroughly modified, ceased to emit the pestilential effluvia,
 Since that event the plague has not reappeared. A caprice of the
@@ -6153,7 +6131,7 @@ disease and death.
 
 The hygienic condition of different countries, then, may be
 modified in various ways. In 1698, Bigot de Molville, president
-_à mortier_ of the Parliament of Normandy, found, after
+_Ã  mortier_ of the Parliament of Normandy, found, after
 careful research, that, of all the cities of France, Rouen
 possessed the greatest number of octogenarians and centenarians.
 Toward the middle of the last century this superiority was
@@ -6351,7 +6329,7 @@ saintly character.
 It refers to the _Philosophoumena_, a work published a few
 years ago by M. E. Miller, of Paris, variously attributed to
 Origen, to St. Hippolytus, bishop of Porto, near Rome, to Caius,
-a Roman Presbyter, and to Tertullian. The late Abbé Cruice--an
+a Roman Presbyter, and to Tertullian. The late AbbÃ© Cruice--an
 Irishman by birth, we believe, but brought up and naturalized in
 France, where he was, shortly before his death, promoted to the
 episcopate--a profoundly learned man and an acute critic, has
@@ -6372,7 +6350,7 @@ Pope Pius IX. now gloriously reigning. [Footnote 43]
 
     [Footnote 43: _Vide Histoire de l'Eglise de Rome sous les
     Pontificats de St. Victor, de St. Zephirin, et St.
-    Calliste_. Par L'Abbé M. P. Cruice. Paris: Didot Frères.
+    Calliste_. Par L'AbbÃ© M. P. Cruice. Paris: Didot FrÃ¨res.
     1856.]
 
 When the magazine has nothing else to allege against the popes,
@@ -7105,7 +7083,7 @@ circle. The old master of German art remained a life-long friend
 of hers and warmly attached to her. Among her more intimate
 companions, she numbered also the two Eberhards, Heinrich Hess,
 Franz von Baader. Somewhat later, by the transfer of the
-university to Munich, were added to these Schubert, Görres,
+university to Munich, were added to these Schubert, GÃ¶rres,
 Schelling, Lasaulx. Also the two Boiseree, who in the autumn of
 1827 came to Munich with their art collection, which had been
 purchased by King Louis, were soon numbered among her nearer
@@ -7464,7 +7442,7 @@ stood in friendly exchange of views with Proske of Regensburg, a
 profound student of ancient church music. Sometimes musical
 gatherings were held, to which Ett brought singing-boys from the
 choir of St. Michael's Church: ancient religious cantatas, the
-compositions of Orlando di Lasso, Handel, Abbé Vogler's hymns,
+compositions of Orlando di Lasso, Handel, AbbÃ© Vogler's hymns,
 and the like, were performed. Conrad Eberhard, an enthusiastic
 admirer of music and of the master Ett, who with Schlotthauer
 regularly attended the historical lectures on music, in his
@@ -7774,7 +7752,7 @@ Dogma or, Social-Philosophic Treatise_. He regarded it as a
 pleasant duty to acquaint her from time to time with his literary
 labors: and she spared herself to no trouble to follow even such
 grave and abstruse topics. He succeeded in specially interesting
-her in Jacob Böhme. Her intelligent remarks on Baader's article
+her in Jacob BÃ¶hme. Her intelligent remarks on Baader's article
 upon the doctrine of justification led him to remark that her
 letter afforded him a more satisfactory proof than many a
 criticism that he had succeeded in reaching both the head and the
@@ -7924,7 +7902,7 @@ Schwanthaler, and then remarks:
   the noble Swiss, Emily. At all times and in all places, in
   larger as in smaller social circles, will each with pleasure
   thus recall that grand life-picture, which was similarly
-  presented to a former generation at Münster, in the fair friend
+  presented to a former generation at MÃ¼nster, in the fair friend
   of Hamann, of Stolberg, of Claudius."
 
 Emily Linder was certainly the first, in her deep humility, to
@@ -7957,7 +7935,7 @@ art-loving woman in the repose of her home:
    of Overbeck also embellished. And, where the organ awaited the
    skilful fingers, a Madonna of the school of Leonardo da Vinci
    smiled from the wall, while the little side-altar encased a
-   drawing of Albrecht Dürer. I found, also, in the house of this
+   drawing of Albrecht DÃ¼rer. I found, also, in the house of this
    lady a portrait of Maria Mori, in the Tyrol, admirably drawn
    by her friend, the well-known lady artist, Ellenrieder,
    somewhat idealized; a profile, with folded hands; long, brown,
@@ -8023,7 +8001,7 @@ royalist volunteers, and after preparing himself for the campaign
 by receiving holy communion, marched with his command toward the
 Spanish frontier. His company belonged to that unlucky detachment
 under General Barbarin, which was surprised and cut to pieces at
-Hélette, in the Lower Pyrénées. General Barbarin fell, severely
+HÃ©lette, in the Lower PyrÃ©nÃ©es. General Barbarin fell, severely
 wounded, and would have fallen into the enemy's hands, when De
 Ravignan rushed forward through the fire and attempted to carry
 him off the field. It was a generous but desperate act, which
@@ -8047,8 +8025,8 @@ not satisfied with the reading necessary for his profession,
 applied himself closely to the German and English languages, and
 such lighter accomplishments as drawing and music. In due time he
 was appointed a _conseiller auditeur_ in the royal court of
-Paris, then under the presidency of Séguier. The influence of the
-Duke d'Angoulême got him the appointment--not, however, without
+Paris, then under the presidency of SÃ©guier. The influence of the
+Duke d'AngoulÃªme got him the appointment--not, however, without
 some difficulty--and his colleagues received him coldly. He
 awaited his time in patience, beginning each day by hearing Mass,
 and studying thoroughly, systematically, and indefatigably. At
@@ -8061,7 +8039,7 @@ the appointed day the "young gentleman" presented a clear and
 logical report, and delivered it with a perfection of utterance
 which caused the whole court to listen with astonishment. His
 success at the bar was assured from that moment, and soon
-afterward he was appointed deputy _procureur général_.
+afterward he was appointed deputy _procureur gÃ©nÃ©ral_.
 
 His life at this time presents a curious and instructive study.
 He devoted a part of each day regularly to religious exercises;
@@ -8121,7 +8099,7 @@ know beforehand what I must do: I have only to choose the most
 difficult course." In the scholasticate, he was known by the
 _sobriquet_ of "Iron Bar." When the time came for his
 admission to holy orders, after nearly four years passed in the
-scholasticate at Paris and at Dôle, he was sent with five other
+scholasticate at Paris and at DÃ´le, he was sent with five other
 candidates to the Diocesan Seminary at Orgelet, where the
 sacrament of ordination was to be administered. Before the party
 set out, Brother de Ravignan was appointed superior for the
@@ -8331,7 +8309,7 @@ result of his experiment as follows:
   "On Good-Friday the Passion sermon exhausted my strength; the
   following day I had no voice left. I was unable to give the
   closing instruction of the retreat on Holy Saturday. I wrote a
-  scrap of a note to inform the Curé of Saint-Eustache, and he
+  scrap of a note to inform the CurÃ© of Saint-Eustache, and he
   bethought him of reading it from the pulpit. All went off
   quietly; the people waited for benediction and went home."
 
@@ -8452,7 +8430,7 @@ day which does not appear in connection with his. Madame
 Swetchine was one of his co-laborers. Madame de la Ferronnays,
 whose charming life has recently been told under the title of
 _A Sister's Story_, was his devoted friend. Chateaubriand,
-Count Molé, Walckenaër, Camper the celebrated navigator, Marshal
+Count MolÃ©, WalckenaÃ«r, Camper the celebrated navigator, Marshal
 St. Arnaud, General Cavaignac, Prince Demidoff, Montalembert, De
 Falloux, and Bishop Dupanloup--these are some of the illustrious
 names which occur most frequently in his correspondence. A
@@ -9186,7 +9164,7 @@ citizens of a self-governing nation shall receive sufficient
 intellectual culture to enable them to discharge their duties
 understandingly;" but the state has no right to say that its
 pupils shall take their knowledge and form their opinions of the
-great moral events of history from D'Aubigné or from Cardinal
+great moral events of history from D'AubignÃ© or from Cardinal
 Bellarmin. It was this that troubled the great Catholic and
 Protestant governments of Europe, until experience discovered to
 them the simple solution of the difficulty which we are so
@@ -9232,7 +9210,7 @@ upon the highway of your republican progress, poisoning the
 fountains of your national life? Or will you prefer, in the
 spirit of your institutions, to respect their conscientious
 opinions, and to enable them, in the manner we have already
-indicated, to coöperate with you in the full development of your
+indicated, to coÃ¶perate with you in the full development of your
 great and noble policy of universal popular education?
 
 But, is it true that the Catholic people have no substantial
@@ -9563,7 +9541,7 @@ hackney coaches were still too high for the public generally, and
 they consequently did not meet with the success anticipated. At
 length, in 1662, appeared the really cheap and popular
 conveyance--the omnibus--under the patronage of the Duke of
-Roanès the Marquis of Sourches, and the Marquis of Crenan. These
+RoanÃ¨s the Marquis of Sourches, and the Marquis of Crenan. These
 noblemen solicited and obtained letters patent for a great
 speculation--carriages to contain eight persons, at five sous the
 seat, and running at fixed hours on specified routes.
@@ -9665,13 +9643,13 @@ Madame Perier writes as follows:
   "The shopkeepers of the Rue St. Denis demanded a route with so
   much importunity that they even spoke of presenting a petition.
   Preparations were being made to give them one next week; but
-  yesterday morning M. de Roanès, M. de Crenan, and M. the High
+  yesterday morning M. de RoanÃ¨s, M. de Crenan, and M. the High
   Provost (M. de Sourches) being all three at the Louvre, the
   king talked very pleasantly about the novelty, and addressing
   those gentlemen, said,' And _our_ route, will you not soon
   establish it?'
 {138}
-  These words oblige them to think of the Rue St. Honoré, and to
+  These words oblige them to think of the Rue St. HonorÃ©, and to
   defer for some days the Rue St. Denis. Besides this, the king,
   speaking on the same subject, said that he desired that all
   those who were guilty of the slightest insolence should be
@@ -9704,11 +9682,11 @@ last lines he ever traced: he died in August of the same year:
   their weapons. I have no more paper. Adieu--entirely yours."
 
 Sauval affirms that Pascal was the inventor of this cheap coach,
-and Madame de Sévigné seems to allude to the enterprise in a
+and Madame de SÃ©vignÃ© seems to allude to the enterprise in a
 passage of one of her letters which commences "_apropos_ of
 Pascal." It is certain that he and his sister were pecuniarily
 interested in the speculation, and it is more than probable that
-it was he who induced his rich friend the Duke of Roanès, to take
+it was he who induced his rich friend the Duke of RoanÃ¨s, to take
 so prominent a part in the undertaking. But we must not consider
 Pascal in the light of a vulgar speculator--earthly interests
 affected him but little personally--deeds of charity, the many
@@ -9764,7 +9742,7 @@ coaches," etc., etc.
 
 The first route was opened on the 18th of March; the second on
 the 11th of April, running from the Rue Saint Antoine to the Rue
-Saint Honoré, as high as St. Roch's church. On this second
+Saint HonorÃ©, as high as St. Roch's church. On this second
 opening, a placard announced to the citizens that the directors
 "had received advice of some inconveniences that might annoy
 persons desirous of making use of their conveyances, such, for
@@ -9825,8 +9803,8 @@ he had made their horoscope and given them to the publicunder a
 certain constellation whose bad influences he knew how to turn
 aside."
 
-    [Footnote 48: Henri-Jules de Bourbon-Condé, son of the great
-    Condé.]
+    [Footnote 48: Henri-Jules de Bourbon-CondÃ©, son of the great
+    CondÃ©.]
 
 We can give no description of this ancient omnibus; no drawing or
 engraving of it is believed to exist; but it is probable that it
@@ -10743,7 +10721,7 @@ elections, they would be quietly and decorously conducted; that
 her presence would do more than a whole army of police officials
 to maintain order, to banish all fighting, drinking, profane
 swearing, venality, and corruption. This would undoubtedly be, to
-some extent, the case, if, under the new _régime_, men
+some extent, the case, if, under the new _rÃ©gime_, men
 should retain the same chivalric respect for women that they now
 have. Men now regard women as placed in some sort under their
 protection, or the safeguard of their honor. But when she insists
@@ -11105,7 +11083,7 @@ that you will like us."
 
 {158}
 
-This wish was expressed in a manner so _naïve_ and earnest
+This wish was expressed in a manner so _naÃ¯ve_ and earnest
 that Margaret could but smile in making answer that she was quite
 prepared to be pleased with everything, and that her only fear
 was lest she might disturb the harmony of their circle--not by
@@ -12398,7 +12376,7 @@ other criticisms which have been made in various periodicals.
   and drag it to the same destruction.
 
   "The plan of the work is curious. It begins with the primary
-  cognitions of the mind, and goes forward with an _à priori
+  cognitions of the mind, and goes forward with an _Ã  priori
   _ argument for the existence of God: that if God exists, he
   must necessarily exist in Trinity; must create just such a
   universe; must be incarnate in the Second Person; must redeem a
@@ -13016,7 +12994,7 @@ certain dark points of Christian doctrine; who are in earnest,
 and willing to take the time and trouble necessary for learning
 the truth. Such persons, if they read only English, will find all
 that is requisite, in addition to the citations made in the
-_Problems of the Age_, in _Möhler's Symbolism_.
+_Problems of the Age_, in _MÃ¶hler's Symbolism_.
 Scholars and theologians may satisfy themselves more fully by the
 aid of the collection of dogmatic and doctrinal decrees contained
 in Denziger's _Enchiridion_, and of the theologies of
@@ -13874,7 +13852,7 @@ little! To-day is also the anniversary of my birthday into the
 Catholic Church, and now it is my birthday into Catholic Spain!
 "La tierra de Maria Santisima."
 
-Leaving Perpignan (in the Pyrénées Orientales) by diligence, we
+Leaving Perpignan (in the PyrÃ©nÃ©es Orientales) by diligence, we
 pass through a most tropical looking country, amidst hedges of
 aloe, and oleander, and pomegranates, (reminding one of Texas in
 the character of the soil, the productions, and even the houses;)
@@ -13890,7 +13868,7 @@ side the mountains, is the last French town; high above which
 towers the fortress of Bellegarde, built by Louis XIV. in 1679.
 Just outside this town we pass a granite pyramid, on which is
 written "Gallia." A fellow-passenger tells us we are on Spanish
-soil. All cry, "Viva España!" and we look out upon a
+soil. All cry, "Viva EspaÃ±a!" and we look out upon a
 solemn-looking soldier, who stands by a cantonnier, above which
 floats the red and yellow flag of Spain. La Junguera is the first
 Spanish town; and here is a rival fort to the towering French one
@@ -13921,7 +13899,7 @@ night.
 {200}
 
 Gerona appeared with the early dawn; a curious old town of 14,000
-inhabitants, on the river Oña, and looking not unlike Rome with
+inhabitants, on the river OÃ±a, and looking not unlike Rome with
 its yellow river, its tall houses, and balconies. Both this town
 and Figueras have made themselves memorable in wars and sieges.
 Indeed, what Spanish town has not its tale of heroism and brave
@@ -14151,7 +14129,7 @@ of the Fort Montuich, built upon a high rock. There is also a
 citadel near the sea, and a beautiful promenade upon the walls,
 (Muralea del Mar.) And amongst the public buildings is a
 university, said to be the finest in Spain; many hospitals and
-charitable institutions, and a theatre (the Lycée) which they
+charitable institutions, and a theatre (the LycÃ©e) which they
 claim to be larger than San Carlo, in Naples, the Scala, in
 Milan, or even the new-opera house in Paris. Barcelona is the
 birthplace of Balmes, the author of that great work,
@@ -14420,14 +14398,14 @@ Hans Andersen, in his little book on Spain, says:
   the country which he was mainly instrumental in rescuing from
   the infidels. As a conqueror he entered Valencia, and here
   lived with his noble and heroic wife, Zimena, and his
-  daughters, Doña Sol and Doña Elvira; and here he died in 1099.
+  daughters, DoÃ±a Sol and DoÃ±a Elvira; and here he died in 1099.
   Here stood around his bed of death all who were dear to him.
   Even his very warhorse, Babieca, was ordered to be called
   thither. In song, it is said that the horse stood like a lamb,
   and gazed with his large eyes upon his master, who could no
   more speak than the poor horse himself. ... Through the streets
   of Valencia passed at night the extraordinary cavalcade to San
-  Peder de Cordoña, which the departed chief had desired should
+  Peder de CordoÃ±a, which the departed chief had desired should
   be his burial-place. The victorious colors of the Cid were
   carried in front. Four hundred knights protected them. Then
   came the corpse. Upright upon his war-horse sat the dead;
@@ -14435,7 +14413,7 @@ Hans Andersen, in his little book on Spain, says:
   white beard flowing down to his breast.
 
   "Gil Diaz and Bishop Jeronymo escorted the body on either side;
-  then followed Doña Zimena with three hundred noblemen. The gate
+  then followed DoÃ±a Zimena with three hundred noblemen. The gate
   of Valencia toward Castile was opened, and the procession
   passed silently and slowly out into the open fields, where the
   Moorish army was encamped. A dark Moorish woman shot at them a
@@ -14853,7 +14831,7 @@ such authority for faith. He says:
   Even in that precept which many will be swift to quote against
   us in this connection,'Obey them that have the rule over you,
   and submit yourselves,' it is first true that these 'rulers,'
-  as the context proves, are mere (_hëgoumenön_) leaders,
+  as the context proves, are mere (_hÃ«goumenÃ¶n_) leaders,
   and men of example who were already dead, with no flavor of
   potentiality therefore about them; whose 'faith' is to be
   imitated rather than whose commands are to be submitted to; and
@@ -15435,9 +15413,9 @@ remain for ever closed to one." The life and the visions of
 Katharina Emmerich, which he read aloud on her weekly
 reading-evenings, made a profound impression upon her. As though
 in confirmation of what she heard, she saw with her own eyes at
-Kaldern a similar phenomenon in Maria von Mörl, that astounding
+Kaldern a similar phenomenon in Maria von MÃ¶rl, that astounding
 living wonder, and was penetrated with the atmosphere of truth
-with which, as Gorres expresses it, Maria von Mörl seemed
+with which, as Gorres expresses it, Maria von MÃ¶rl seemed
 enveloped. She caused a portrait of this phenomenon to be
 executed by her lady friend, Ellenrieder; and always gladly gave
 her visitors (as is stated by Emma Niendorf) a full description
@@ -15688,8 +15666,8 @@ the 29th of November, 1843:
   unrest which has thus loosed itself in the simple and welcome
   words,'I will enter the church.' But you have every reason to
   be at rest; for a church which has given birth to a Wittman, a
-  Sailer, a Fénélon, a Vincent de Paul, a Tauler, a Suso, a
-  Thérèse, a Bernard, an Augustine, an Athanasius, a Polycarp,
+  Sailer, a FÃ©nÃ©lon, a Vincent de Paul, a Tauler, a Suso, a
+  ThÃ©rÃ¨se, a Bernard, an Augustine, an Athanasius, a Polycarp,
   and so on, up to the apostles themselves, and which has nursed
   them on her breast with the self-same heavenly doctrine; from
   whose mouth and from whose life, in turn, this same identical
@@ -15734,7 +15712,7 @@ herself their prayers.
 On the 4th of December, 1843, Emily Linder, accompanied by her
 friend Apollonia, in the Georgian Seminary chapel made solemn
 profession of the Catholic faith. On the day following, the papal
-nuncio, Viale Prelà, administered to her, in his house-chapel the
+nuncio, Viale PrelÃ , administered to her, in his house-chapel the
 sacrament of confirmation; delivering, at the same time, an
 eloquent address in German. The friend before mentioned was
 godmother, and, as one present remarked, by her faith, her love,
@@ -16018,7 +15996,7 @@ series of glorious creations. Several of these, like the
 "Manger-Festival of St. Francis," the "Legend of St. Marina,"
 were the source of some of Brentano's beautiful inspirations and
 are now included in his sacred poems. In addition to these
-artists were Schnorr, Schraudolph, Schwind, Führich, Neher,
+artists were Schnorr, Schraudolph, Schwind, FÃ¼hrich, Neher,
 Eberle, Ahlborn, Koch, etc. In another respect, also, she
 approved herself a true artist, namely, by rendering constant
 assistance to such pupils of the distinguished masters with whom
@@ -16067,7 +16045,7 @@ of social relations were not encouraging to any hope like this.
 But at just such a time, when outside life was forbidding, she
 found how grateful a definite aim and mission may be, and
 experienced the quiet delight of art and art-occupation more than
-ever. She thus writes from Pöhl, a favorite resort of hers in
+ever. She thus writes from PÃ¶hl, a favorite resort of hers in
 summer, adjacent to the Ammersee, "I shall yet make a little tour
 in the Tyrol and then ensconce myself in winter quarters, where I
 shall be happy in a work already commenced and which will
@@ -16134,11 +16112,11 @@ thoughtful consideration loved to express itself in pleasant
 souvenirs and playful surprises of gifts; and her fidelity often
 extended even to the departed. Many a friend, after having passed
 to a long home, was endowed with a memorial Mass which she
-established for the repose of his soul. The Klee and Möhler
+established for the repose of his soul. The Klee and MÃ¶hler
 memorial, a composition of Steinle, copies of which she caused at
 her own expense to be made, she intended (an intention, indeed,
 never realized) as an aid to the establishment of a Klee and
-Möhler fund; and a lasting monument it would have proved to the
+MÃ¶hler fund; and a lasting monument it would have proved to the
 memory of these two noble men. For any expression of fidelity
 toward herself she was deeply grateful; particularly in her more
 advanced years, after she became more and more aware how rare a
@@ -16292,7 +16270,7 @@ imparted to her being and doing an indescribable grace, which is
 always the accompaniment of inward purity, and a religion based
 upon humility.
 
-The Abbé Haneberg, in his beautiful tribute at her grave,
+The AbbÃ© Haneberg, in his beautiful tribute at her grave,
 remarked, "She seemed, during the last twenty years of her life,
 to emulate the most pious of her friends and daughters of Assisi,
 and to aim even to outdo them, so systematic and untiring was her
@@ -16319,7 +16297,7 @@ about it. But perhaps you were able to get no farther than the
 _mensa_; the _mensa Domini_ would naturally be enough
 for you." But she went farther than this. In her manuscripts were
 found Latin exercises, written under the guidance of the worthy
-old Bröber. One room of her spacious residence was arranged as a
+old BrÃ¶ber. One room of her spacious residence was arranged as a
 chapel, in which was the superb altar-piece by Eberhard, "The
 Triumph of the Church." This chapel was favored by the ordinariat
 with a Mass licence. On the anniversary of her union with the
@@ -16416,9 +16394,9 @@ throngs of the poor, together with the superintendent of public
 charities, (then represented by the mayor of the city,) moved
 from the pleasant mansion on the corner of Carl street toward the
 cemetery, to render their last homage to this noble friend of art
-and the poor. The Abbé Haneberg, an old friend of hers,
+and the poor. The AbbÃ© Haneberg, an old friend of hers,
 pronounced the benediction of the church over her grave, which
-was located not far from the grave of Möhler.
+was located not far from the grave of MÃ¶hler.
 {238}
 In her written instructions, Emily Linder desired only a simple
 stone cross above her, the pedestal of the cross bearing the
@@ -16623,22 +16601,22 @@ thus estimated by no less an authority than the English premier:
     spoliation.]
 
   "The commissioners appointed in 1868 estimated the annual value
-  at £616,000, but, with all respect for their long labors, he
+  at Â£616,000, but, with all respect for their long labors, he
   must differ from them, for they had placed it too low; for one
   of their body, in a subsequent publication, estimates it at
-  £835,000, but for the present purpose he would take it at
-  £700,000. The capitalized amount was as follows:
+  Â£835,000, but for the present purpose he would take it at
+  Â£700,000. The capitalized amount was as follows:
 
-    Tithe rent charge,                £9,000,000
-    Land,                             £6,250,000
-    Other property in money, etc.,      £750,000
-    Total,                           £16,000,000
+    Tithe rent charge,                Â£9,000,000
+    Land,                             Â£6,250,000
+    Other property in money, etc.,      Â£750,000
+    Total,                           Â£16,000,000
 
   The result is that the whole value of the ecclesiastical
   property of Ireland, reduced and cut down first of all by the
   almost unbounded waste of life tenants, and secondly by the
   wisdom or unwisdom of well-intentioned parliaments--the
-  remaining value is no less than £16,000,000 of money,
+  remaining value is no less than Â£16,000,000 of money,
   considerably more than on a former occasion I ventured to
   estimate, but then my means of information were smaller than
   they now are."
@@ -16675,7 +16653,7 @@ affect themselves as matters of mutual contract, but who will
 have no legal jurisdiction nor recognition except such as may be
 conferred by subsequent acts of parliament on local corporations.
 When we reflect that the prelates thus so unceremoniously thrust
-out of the Lords, and who with their _confrères_ are
+out of the Lords, and who with their _confrÃ¨res_ are
 stripped of all extrajudicial authority, were, and still are, the
 most active promoters of the Act of Union and the fiercest
 opponents of its repeal, we cannot help admiring the poetic
@@ -16784,7 +16762,7 @@ life, or as long as such incumbent continues to perform the
 duties of such office; or such incumbent may commute his annuity
 in return for a certain payment in bulk, upon his own application
 and at the discretion of the commission. For these purposes the
-sum of about £5,000,000, or twenty-five millions of dollars, will
+sum of about Â£5,000,000, or twenty-five millions of dollars, will
 be required to be paid out of the assets in the hands of the
 commissioners. This amount divided between two thousand
 ecclesiastics would give an average of twelve thousand five
@@ -16819,19 +16797,19 @@ patient people. [Footnote 52]
     said 700,000 Anglicans in Ireland and 36,000,000 Catholics in
     France; that is, 51 times as many Catholics in France as
     Anglicans in Ireland. The budget therefore of Catholic
-    worship in France should be 51 times £800,000, or
-    £40,800,000, to write which is enough to show the monstrous
+    worship in France should be 51 times Â£800,000, or
+    Â£40,800,000, to write which is enough to show the monstrous
     iniquity of which Ireland has been the victim. The
     Presbyterians, numbering 523,291 persons, receive a _regium
-    donum_ for their ministers amounting to £40,547, and a
-    subsidy of £2050 for their theological college at Belfast,
-    making a total of £42,597. Protestant dissenters have no
+    donum_ for their ministers amounting to Â£40,547, and a
+    subsidy of Â£2050 for their theological college at Belfast,
+    making a total of Â£42,597. Protestant dissenters have no
     endowment, nor yet Catholics, excepting a subsidy to the
-    college at Maynooth of £26,360. Thus the Anglican
-    Establishment in Ireland has a revenue of about £800,000 for
-    700,000 persons, or about £1 3s. per head. The Presbyterians
-    receive from the government £42,597 for 523,291 persons, or
-    about 1s. 7 1/2d. per head. Catholics, £26,360 for 4,505,265
+    college at Maynooth of Â£26,360. Thus the Anglican
+    Establishment in Ireland has a revenue of about Â£800,000 for
+    700,000 persons, or about Â£1 3s. per head. The Presbyterians
+    receive from the government Â£42,597 for 523,291 persons, or
+    about 1s. 7 1/2d. per head. Catholics, Â£26,360 for 4,505,265
     persons, that is, LESS THAN ONE PENNY HALFPENNY per head.
 
     According to the last census, that of 1861, there were in
@@ -16887,7 +16865,7 @@ Ireland have been annually in the receipt of a limited sum of
 money called the _regium donum_. At first, as the term
 indicates, this was simply a gift from the crown, but of late
 years it has been regularly voted by parliament, and last year it
-amounted to £45,000. This grant is to be withdrawn; and as an
+amounted to Â£45,000. This grant is to be withdrawn; and as an
 equivalent, a sum of about four millions of dollars is to be
 capitalized by the commissioners, the annual interest of which
 will be nearly equal to the present donation. In addition to
@@ -16899,7 +16877,7 @@ Presbyterian college of Belfast.
 But the Catholics, who, notwithstanding the vast emigration of
 the last twenty-five years, form three fourths of the entire
 population, fare even worse than their dissenting brethren. The
-paltry grant of £26,000 to Maynooth College is to cease, and a
+paltry grant of Â£26,000 to Maynooth College is to cease, and a
 sum equal to less than a half of that appropriated to the
 Presbyterians is to be substituted, the interest only of which
 will be devoted to the support of that distinguished nursery of
@@ -16951,10 +16929,10 @@ become, in the truest sense, national.
 We now come to the matter of assets to be reduced into possession
 by the commissioners, out of which the several sums above
 mentioned are to be paid--assets which, according to Mr.
-Gladstone's estimates, will amount to £16,000,000, or eighty
+Gladstone's estimates, will amount to Â£16,000,000, or eighty
 million dollars.
 {246}
-Of this sum, £9,000,000, it is expected, will be derived from the
+Of this sum, Â£9,000,000, it is expected, will be derived from the
 commutation or obliteration of tithe rent charges; that is to
 say, the owners of lands from which tithes are now derived can,
 by the payment of a fixed sum to the commissioners, be for ever
@@ -17048,8 +17026,8 @@ with any particular denomination, as follows:
 
 The poor-law commissioners are to be entrusted with this capital
 sum, and the distribution of the annual revenue arising
-therefrom, which is calculated at £310,000. There are two very
-patent reasons for this distribution. Already the sum of £140,000
+therefrom, which is calculated at Â£310,000. There are two very
+patent reasons for this distribution. Already the sum of Â£140,000
 for similar purposes is annually raised by a tax called "county
 cess;" "a heavy tax, an increasing tax," says Mr. Gladstone, "and
 a tax not divided, like the poor law, between the owner and the
@@ -18328,7 +18306,7 @@ many who must have admired it before.
 
   "Blessed are they that claim no part
      In this world's pomp and laughter:
-   Blessèd the pure; the meek of heart
+   BlessÃ¨d the pure; the meek of heart
      Blest here; more blest hereafter.
   'Blessed the mourners.' Earthly goods
      Are woes, the master preaches:
@@ -18384,7 +18362,7 @@ America many of his best poems. The sonnets especially are as a
 rule well chosen. We miss many a lovely one, but we should miss
 these that are before us just as much. Mr. De Vere has also with
 excellent judgment honored with a place in this book his three
-charming idylls, "Glaucè," "Ione" and "Lycius"--among his very
+charming idylls, "GlaucÃ¨," "Ione" and "Lycius"--among his very
 finest pieces of word-painting, and which have more of the old
 classic mode of expression than any modern poems in our language
 save Landor's, and perhaps Tennyson's "OEnone." We wonder, by the
@@ -18432,7 +18410,7 @@ prove that Mr. De Vere's hand has not forgotten her cunning:
 This is very vivid, and the closing fancy extremely graceful and
 pleasing. Poplars, by the way, seem to be a favorite theme of our
 author. Every one familiar with his poems will recall another
-beautiful description in his idyll of "Glaucè," in which occur
+beautiful description in his idyll of "GlaucÃ¨," in which occur
 these lines:
 
                      "How indolently
@@ -18894,7 +18872,7 @@ Ermengarde or Sarah Elizabeth. But we do know that in this poem,
   "O cruel mockery, to call that love
    Which the world's frown can wither! Hypocrite!
    False friend! Base selfish man! fearing to lift
-   Thy soilèd fellow from the dust! _From thee
+   Thy soilÃ¨d fellow from the dust! _From thee
    The love of friends, the sympathy of kind
    Recoil like broken waves from a bare cliff,
    Waves that from far seas come with noiseless step
@@ -19700,7 +19678,7 @@ of religion. Some of their ablest men have passed over to our
 camp convinced by the pure force of argument, as, for instance,
 Thierry, Maine de Biran, Droz, and to a certain extent Cousin.
 Many others, and recently one most notorious individual, Jules
-Havin, the chief editor of the infamous _Siècle_, of Paris,
+Havin, the chief editor of the infamous _SiÃ¨cle_, of Paris,
 have repented at the hour of death. D'Holbach, one of the chiefs
 of the infidel party in France, thus writes: "We must allow that
 corruption of manners, debauchery, license, and even frivolity of
@@ -19712,7 +19690,7 @@ matters more carefully. How can men, given up to voluptuousness
 and debauchery, plunged in excess, ambitious, intriguing,
 frivolous, and dissipated--or depraved women of wit and
 fashion--how can such as these be capable of forming an opinion
-of a religion they have never examined?" [Footnote 62] La Bruyère
+of a religion they have never examined?" [Footnote 62] La BruyÃ¨re
 says, "Do our _esprits forts_ know that they are called thus
 in irony?" [Footnote 63] It is no argument against either
 Catholicity or Protestantism that infidelity exists in Catholic
@@ -19736,10 +19714,10 @@ Christianity is in such a manner as completely to satisfy the
 just demands of human reason, or to justify their own position as
 seceders from the genuine Christendom.
 
-    [Footnote 62: _Système de la Nature_, tom. ii. c. 13.
+    [Footnote 62: _SystÃ¨me de la Nature_, tom. ii. c. 13.
     Cited on page 106. ]
 
-    [Footnote 63: _Les Caractères_, ch. xvi. Cited on page
+    [Footnote 63: _Les CaractÃ¨res_, ch. xvi. Cited on page
     188.]
 
 Our own youth are exposed to the temptation of infidelity on
@@ -20026,9 +20004,9 @@ By James Parton. Swd. Pp. 76. 1869.
     Phenomena, and the various Theories regarding it. With a
     Survey of French Spiritism. Boston: Roberts Brothers. 1869.
 
-    2. _Des Rapports de l'Homme avec le Démon_. Essai
+    2. _Des Rapports de l'Homme avec le DÃ©mon_. Essai
     Historique et Philosophique. Par Joseph Bizouard, Avocat.
-    Paris: Gaume Frères et J. Duprey. 1863 et 1864. Tome VI.,
+    Paris: Gaume FrÃ¨res et J. Duprey. 1863 et 1864. Tome VI.,
     8vo.
 
     3. _The Spirit-Rapper. An Autobiography_. By o. A.
@@ -20959,7 +20937,7 @@ They wandered on the beach at evening, singing, talking, silent;
 or if in merry mood, skooning little flat stones over the water,
 and counting how many wave-tips they would trip before falling.
 
-"_Mon armant m'aime--un peu--beaucoup--passionnément--pas du
+"_Mon armant m'aime--un peu--beaucoup--passionnÃ©ment--pas du
 tout!_" laughed Mrs. Lewis, seeing Miss Hamilton counting to
 herself. "You must only try that oracle in flower petals, my
 dear. To count it in salt water signifies tears."
@@ -21064,7 +21042,7 @@ writes of the 'arrowy certainty of Grecian phrases.' Woe is me! I
 cannot get at the point. I can only see the feathering."
 
 Margaret looked up with an exclamation from the book in her hand.
-"Listen! Coleridge, _à propos_ of having republished his
+"Listen! Coleridge, _Ã  propos_ of having republished his
 earlier poems without correction, writes, 'I was afraid of
 disentangling the weed for fear of snapping the flower.'
 Snapping! only a poet would have chosen that word. The
@@ -21235,7 +21213,7 @@ the heart in the wrong place."
 
 {307}
 
-"Moses and Molière," thought Miss Hamilton, amused at the
+"Moses and MoliÃ¨re," thought Miss Hamilton, amused at the
 juxtaposition; then added aloud, "Christ pointed to the lilies of
 the field."
 
@@ -21610,7 +21588,7 @@ reason, the "papists" were allowed to rest unscathed in the
 family conversations.
 {312}
 It was the war; it was General Sinclair, sabre in hand, riding
-into battle as if it were a _féte_; it was the weather, a
+into battle as if it were a _fÃ©te_; it was the weather, a
 whole month of persistent and most illogical rain, pouring down
 through west winds, through dry moons, through red sunsets,
 through every sign that should bring clear skies, Taurus being
@@ -22718,7 +22696,7 @@ politics, science, art, repugnant not only to logic, but even to
 the instincts of common sense.
 
     [Footnote 67: See a golden work of the Princess Wittgenstein
-    Iwanowska, _Simplicité des Colombes, Prudence des
+    Iwanowska, _SimplicitÃ© des Colombes, Prudence des
     Serpents_, where she refutes the most common objections,
     and exhorts especially ladies to prudence and simplicity in
     controversy and conduct.]
@@ -22739,7 +22717,7 @@ are probably men of high intelligence, in error precisely on this
 account; perhaps persons of right mind, unimpeachable morals, and
 even of delicate sensibility.
 
-This is the arena of _conférences_. Fraysinnous began the
+This is the arena of _confÃ©rences_. Fraysinnous began the
 work of uniting religion with science in the pulpit. Those of
 Wiseman did better at Rome. Then arose the famous names of
 Lacordaire, Ravignan, and now of Fathers Felix and Hyacinthe,
@@ -22795,7 +22773,7 @@ even in this to believe it. To desire to invent a mechanical
 theory of the universe, a material origin of human intelligence
 and liberty, originates the anarchical conception of giving the
 explanation of the cosmological whole by means of every special
-science. Büchner and Vogt modified the Cartesian ideas by
+science. BÃ¼chner and Vogt modified the Cartesian ideas by
 teaching "that there is no force without matter, no matter
 without force; that matter thinks as well as moves; and that all
 things are but dynamic transformations of matter." Hence comes
@@ -23636,7 +23614,7 @@ Hence, the Latin fathers studied speech even to affectation,
 sought after rhetorical figures, yet always more attentive to the
 practical than to the abstract. The French formed themselves
 rather according to the Greek models; and the noble simplicity of
-Bossuet, Massilon, and Fénélon renders them still models for one
+Bossuet, Massilon, and FÃ©nÃ©lon renders them still models for one
 who would discourse before a polished people.
 
 The Italians, if you except some of the very earliest preachers,
@@ -23734,12 +23712,12 @@ the plain, where are olive groves, and peaceful flocks, and
 ploughmen, as if no revolution were occurring around them. At
 Almovar, (situated on a high hill,) we see the ruins of a Moorish
 castle where that half-Moor, Peter the Cruel, confined his
-sister-in-law, Doña Juana de Lara. Carmona is another town which
+sister-in-law, DoÃ±a Juana de Lara. Carmona is another town which
 has the same celebrity. Here he imprisoned many of his female
 favorites when tired of them. We grow very hungry in spite of
 these tragic histories, and our young gentleman buys a great
 melon _de Castile_, which, proving very delicious, we make a
-good breakfast _à l'espagnol;_ but are not sorry to see the
+good breakfast _Ã  l'espagnol;_ but are not sorry to see the
 towers of the Giralda, and soon after we enter Seville--the most
 charming of all Spanish towns; the city of Don Juan and Figaro;
 the gayest, the most celebrated for its beautiful women, its
@@ -23822,7 +23800,7 @@ reproduced,) and lost in awe before his grand picture of St.
 Anthony of Padua, to whom the infant Jesus descends, amidst
 angels and flowers and sunbeams, into the arms ecstatically
 extended toward him. In a little chapel we come upon a lovely
-Virgin and Child, by Alonso Caño, called N. S. de Belem,
+Virgin and Child, by Alonso CaÃ±o, called N. S. de Belem,
 (Bethlehem.)
 
 But the sun declined, and we ascended the Giralda to see his last
@@ -23945,8 +23923,8 @@ was particularly fond, which is above the main altar.
 
 Near the great entrance of the cathedral a stone in the pavement
 marks the spot where lies Fernando, the son of Christopher
-Columbus, with the motto upon it, "A Castilla y á Leon, mundo
-nuevo dió Colon." From his tomb we go to the great Columbine
+Columbus, with the motto upon it, "A Castilla y Ã¡ Leon, mundo
+nuevo diÃ³ Colon." From his tomb we go to the great Columbine
 Library given by him to his country, containing some interesting
 MSS. of his father--one, a book of quotations containing extracts
 from the psalms and prophets, proving the existence of the new
@@ -23958,7 +23936,7 @@ here the great two-edged sword of Ferdinand Gonsalves.
 Some of our party go to visit the archbishop, in the hope to get
 permission to see the treasures of the church, which are very
 valuable; but the presence of the revolution obliges him to deny
-us this as well as the _entrée_ to the convent of St.
+us this as well as the _entrÃ©e_ to the convent of St.
 Theresa, which is said to be exactly the same as when she founded
 it. It was here she underwent such great trouble and persecution,
 and where (finding she had but two or three coppers with which to
@@ -24022,7 +24000,7 @@ Next we go to the "Caridad," one of the most celebrated hospitals
 in the world, founded by a young nobleman of Seville in the
 seventeenth century, upon ground which belonged to a brotherhood
 whose duty it was to give consolation to those about to die on
-the scaffold. This young man (Don Miguel de Mañara) was
+the scaffold. This young man (Don Miguel de MaÃ±ara) was
 distinguished for his profligacy, but also for his bravery,
 generosity, and his patronage of art. One of our friends told us
 some most interesting anecdotes connected with his conversion.
@@ -24036,7 +24014,7 @@ wondering what could be going on at such an hour, entered. Before
 the altar was a bier upon which was extended a body covered with
 the mantle of the knights of the order to which he belonged, the
 priests about it singing the office for the dead. Asking whose
-funeral it was, he was answered, "That of Don Miguel Mañara," and
+funeral it was, he was answered, "That of Don Miguel MaÃ±ara," and
 going to the corpse and uncovering it, saw his own face. The
 morning found him stretched upon the pavement, the vision gone.
 But the impression remained, in which he recognized a call from
@@ -24057,12 +24035,12 @@ There are also several most remarkable pictures by Valdes Leal;
 one, "The Triumph of Time," in which the skeleton Death stands
 triumphantly above crowns and sceptres and "all there is of
 glory." Opposite to this is "The Dead Prelate," a picture made at
-the suggestion of Mañara. From the top of the picture a
+the suggestion of MaÃ±ara. From the top of the picture a
 _pierced hand_ holds the scales, in one side of which a
 kingly crown, and jewels, and sceptre, weigh against the mystic
 "I. H. S." and a book, the Word of God. Below lies a dead
 prelate, in mitre and crosier, half eaten by the worms; on the
-other side, Don Miguel Mañara, wrapped in his knightly mantle,
+other side, Don Miguel MaÃ±ara, wrapped in his knightly mantle,
 upon which also the worms run riot. On one of the scales is
 written "nor more;" upon the other, "nor less."
 
@@ -24073,7 +24051,7 @@ worst man that ever lived," so he styles himself in his epitaph;
 and he requested that he might lie where the feet of every passer
 should walk over him. The sisters conduct us over the clean and
 airy wards. On the wall of the patio are these words, from the
-pen of Mañara himself, "This house will last as long as God shall
+pen of MaÃ±ara himself, "This house will last as long as God shall
 be feared in it, and Jesus Christ be served in the persons of his
 poor. Whoever enters here must leave at the door both avarice and
 pride." And over his own cell is inscribed, "What is it we mean
@@ -24187,7 +24165,7 @@ belt, with pistols and a great rifle.
 
 The revolution spreads everywhere, "peacefully," as they say. We
 see a handbill posted, in which the queen is spoken of as
-"_Doña_ Isabella of Bourbon," to whom they wish "no harm."
+"_DoÃ±a_ Isabella of Bourbon," to whom they wish "no harm."
 
 Some Spanish ladies who had once lived in America, and are
 friends of ours, came to visit us. They are intensely loyal, as
@@ -24488,7 +24466,7 @@ days when Spain had her argosies from the new world laden with
 gold, were made to resist "all time." Four men with iron crowbars
 were striving to dislodge an angel suspended over an altar, which
 positively refused to come down; while below him, on the floor,
-stood saints and martyrs covered with dust and _débris_,
+stood saints and martyrs covered with dust and _dÃ©bris_,
 hastily dislodged from the pedestals on which they had rested for
 centuries--a rueful group! No wonder the women wept, and eyed
 resentfully the malicious-looking revolutionists employed to
@@ -24612,7 +24590,7 @@ The preparations for the approaching council continue to be made
 on a grand scale, and with the greatest diligence. From the
 _Chronicle of Matters relating to the future Council_, which
 is regularly published at the office of the _Civilta
-Cattolicà_, in Rome, we copy the list of the different
+CattolicÃ _, in Rome, we copy the list of the different
 commissions and their members which are preparing the matters to
 be discussed and decided upon by the bishops assembled in
 ecumenical council.
@@ -24624,7 +24602,7 @@ secretary, Mgr. Giannelli; and as consulters, Mgr. Tizzani, Mgr.
 Angelini, vicegerent of Rome, Mgr. Talbot, (an Englishman,) Don
 Melchior Galeotti, of the seminary of Palermo, F. Sanguineti, S.
 J., professor of canon law in the Roman College, Professor Feije,
-of the University of Louvain, and Professor Hefele, of Tübingen.
+of the University of Louvain, and Professor Hefele, of TÃ¼bingen.
 {357}
 The commission of ceremonies is composed of prelates who have the
 general supervision of the grand functions which take place in
@@ -24643,9 +24621,9 @@ commission is composed of;
           congregation of ministers of the sick,)
   Canon Kovaes, of Kolocza in Bohemia,
   Canon Molitor of Spire in Germany,
-  the Abbé Chesnel, vicar-general of Quimper,
+  the AbbÃ© Chesnel, vicar-general of Quimper,
   Canon Moufang of Mayence,
-  the Abbé Gibert, vicar-general of Moulins, and
+  the AbbÃ© Gibert, vicar-general of Moulins, and
   Mgr. Trinchieri, secretary.
 
 The commission for eastern affairs is composed of
@@ -24700,8 +24678,8 @@ The commission of dogmatic theology is composed of
      of the Roman university,
   F. Adrogna, definitor-general of the
      conventual Franciscans,
-  Mgr. Jacquenet, curé of St. Jacques at Rheims,
-  the Abbé Gay, vicar-general of Poitiers,
+  Mgr. Jacquenet, curÃ© of St. Jacques at Rheims,
+  the AbbÃ© Gay, vicar-general of Poitiers,
   F. Martinelli, (Augustinian,) professor of Scripture in the Roman
      university,
   Don Joseph Pecci, professor of philosophy in the same,
@@ -24733,7 +24711,7 @@ The commission of ecclesiastical discipline is composed of
   Canon Jacobini,
   Professor Hergenroether, of Wurtzburg,
   Professor Feije of Louvain,
-  the Abbé Sauvé, of Laval,
+  the AbbÃ© SauvÃ©, of Laval,
   Canon Giese, of Munster,
   Professor Heuser, of Cologne,
   Professor de Torres, of Seville, and
@@ -24742,7 +24720,7 @@ The commission of ecclesiastical discipline is composed of
 Several other distinguished men have been added to these
 commissioners since this list was published. Dr. Newman was
 invited to assist, but declined on account of his infirm health.
-Dr. Döllinger was also invited.
+Dr. DÃ¶llinger was also invited.
 
 {358}
 
@@ -24829,7 +24807,7 @@ continually increasing as the time for its assembling draws near.
 The infidel and red-republican party in Europe manifest a fear
 and dread which is certainly remarkable, and very encouraging to
 all friends of religion and order. The politicians of the old
-_régime_ of state supremacy over the church also manifest a
+_rÃ©gime_ of state supremacy over the church also manifest a
 terrible and perfectly well-founded alarm, lest the church should
 assert and regain her perfect liberty and independence, and
 condemn, without any hope of appeal, those maxims and opinions by
@@ -24919,7 +24897,7 @@ results, and to welcome the thought of a possible reconciliation.
 
 On the tenth day of last November, M. Guizot uttered the
 following words at a reunion of ecclesiastics and laymen, at
-Notre Dame de Dozulè, in Normandy:
+Notre Dame de DozulÃ¨, in Normandy:
 
   "You priests have faith; it is faith which directs you; and
   even when you seem to act imprudently, success always justifies
@@ -25405,7 +25383,7 @@ the heart in sympathy with nature in all her infinite variety.
 But this requires teachers who are capable of opening to youth
 the great treasure-house of nature. It is not always the most
 intellectual people who are the most fond of the country. Madame
-de Staël preferred living in the fourth story of a house on the
+de StaÃ«l preferred living in the fourth story of a house on the
 Rue du Bac in Paris to a villa on the enchanted shores of Lake
 Geneva. And Dr. Johnson thought there was no view that equalled
 the high tide of human beings at Charing Cross.
@@ -25709,7 +25687,7 @@ head of St. Mary's River, invited me to accompany him, and I
 gladly did so. Two colored servants went to manage the sail, or
 to row if necessary. The boat was black as a gondola of Venice.
 Sailing over these waters, where passed the Dove and the Ark,
-reminded me of the Père Jean and the novice René on the St.
+reminded me of the PÃ¨re Jean and the novice RenÃ© on the St.
 Lawrence. The whole country was, as we set out, glorified by the
 setting sun. The long points of land around which the river wound
 were bathed on one side by a golden mist, and on the other in a
@@ -27657,7 +27635,7 @@ nationalities, some of them, if not repugnant, at least strange
 to the native-born of America, the power of absorption possessed
 by the people of the United States is astonishing. Columbia,
 taking to her ample bosom the fiery Celt and the phlegmatic
-Teuton, the self-asserting Briton and the _débonnaire_ Gaul,
+Teuton, the self-asserting Briton and the _dÃ©bonnaire_ Gaul,
 smiles complacently at their peculiarities, or, remembering the
 good qualities which underlie such eccentricities, waits
 patiently for time and example to cure them; and we venture to
@@ -28000,7 +27978,7 @@ others remain still to be discovered. When we remember the
 prodigality with which nature lavishes her gifts, we cannot
 believe that while France alone possesses twenty-four varieties
 of roses, all described by De Candolle in his _Flore
-Française_, the great American continent owns but fifteen.
+FranÃ§aise_, the great American continent owns but fifteen.
 
 We will commence our European rose search in that most
 unpromising of all spots, Iceland; there, where volcanic fire and
@@ -28017,7 +27995,7 @@ the outside, and its fruit, at first red, becomes perfectly black
 when ripe.
 
 In Lapland, too, a country almost as disinherited by nature as
-Iceland, the pretty little May rose (_rosa maïalis_) expands
+Iceland, the pretty little May rose (_rosa maÃ¯alis_) expands
 its bright red corolla even before the tardy sun has melted away
 all the snow that has covered it during nine long months. A
 little later on, in the full blush of the short summer, "when the
@@ -28371,7 +28349,7 @@ his works.
        _Letters from Spain_. By William Cullen Bryant. 12mo.
        New York: D.  Appleton & Co.
 
-       _Voyage en Espagne_. Par M. Eugène Poitou. 8vo, pp.
+       _Voyage en Espagne_. Par M. EugÃ¨ne Poitou. 8vo, pp.
        483. Tours: A. Mame et Fila. 1869.]
 
 Lady Herbert strikes the key-note of her narrative of Spanish
@@ -28509,7 +28487,7 @@ father educates his children. It seems to have been forgotten
 that this was a task which only those mighty geniuses who appear
 once in a century are strong enough to perform. An indolent,
 weak, and careless ruler under the Spanish system allows his
-people to lag behind in the struggle for national preëminence; a
+people to lag behind in the struggle for national preÃ«minence; a
 bad ruler plunges them into misery and disgrace. Spain has
 suffered terribly from both these afflictions; we do not believe,
 however, that her case is desperate. While there is much in the
@@ -28611,7 +28589,7 @@ presents as well as for the library.
   that thou mayest be long-lived in the land
   which the Lord thy God will give thee."
 
-In a remarkable work, entitled _Mémoires concernant l'histoire,
+In a remarkable work, entitled _MÃ©moires concernant l'histoire,
 les sciences, les arts, les moeurs, les usages, etc., etc., des
 Chinois_, written by two natives of China who had spent their
 early years in Europe, and had there added the sciences of the
@@ -29381,7 +29359,7 @@ hand.
 
   The Free-masons.
   What they are--What they do--What they are aiming at.
-  From the French of Mgr. Sègur,
+  From the French of Mgr. SÃ¨gur,
   author of _Plain Talk_.
   Boston: Patrick Donahoe. 1869.
 
@@ -29389,7 +29367,7 @@ The best notice we can give of this book is to reproduce an
 extract from the translator's preface:
 
   "This short treatise, written, not by the archbishop of Paris,
-  as carelessly stated by some newspapers, but by Mgr. de Sègur,
+  as carelessly stated by some newspapers, but by Mgr. de SÃ¨gur,
   the author of the work lately translated and published under
   the title of _Plain Talk_, was composed to unveil and show
   Free-Masonry _as it is in the old world_. Its strictures,
@@ -29575,7 +29553,7 @@ A woman's book in every page and line, charming for its
 simplicity and pleasant gossip. Madame Polko was a friend and
 enthusiastic admirer of the great musician. All that he ever did,
 said, or wrote she tells us with an air of pride and earnestness
-only equalled by the _naïve_ recital of all baby's wonderful
+only equalled by the _naÃ¯ve_ recital of all baby's wonderful
 pranks and precocious intelligence peculiar to young mothers.
 
 These reminiscences will do to beguile a dreamy summer hour, when
@@ -29708,7 +29686,7 @@ From Roberts Brothers, Boston:
 
     Foreign Literary Notes.
 
-The Abbé Sire, Superior of the Seminary of St. Sulpice, some time
+The AbbÃ© Sire, Superior of the Seminary of St. Sulpice, some time
 since undertook to procure the translation of the bull
 "_Ineffabilis_" into all the written languages of the world.
 In this vast enterprise he has made great progress, and more than
@@ -29763,8 +29741,8 @@ The publishing house of Adrien Le Clerc (Paris) announces an
 important work in press. It is _L'Histoire des Conciles_, in
 ten volumes 8vo, (large,) of 640 pages each. The first volume
 appeared on the 31st of January. It is a translation, by the
-Abbés Goschler and Delarc, from the German of Dr. Ch. Jos.
-Hefele, Professor of Theology at the University of Tübingen. The
+AbbÃ©s Goschler and Delarc, from the German of Dr. Ch. Jos.
+Hefele, Professor of Theology at the University of TÃ¼bingen. The
 Messrs. Clarke, of Edinburgh, have announced an English
 translation of the same work from the German.
 
@@ -29902,7 +29880,7 @@ dependence upon foreign princes.
 {432}
 
 There is another _Life of Sixus_ in preparation by Baron
-Hübner, formerly Austrian Ambassador to France, in which he
+HÃ¼bner, formerly Austrian Ambassador to France, in which he
 promises numerous documents, French, Spanish, and English, never
 yet published.
 
@@ -29916,7 +29894,7 @@ Textum Syriacum edidit latine vertit notisque instruxit,
 T. J. Lamy. Lovanii, 1868.
 
 From ancient Syrian literature, so rich in works relative to the
-church, its history, its discipline, and its dogmas, the Abbé
+church, its history, its discipline, and its dogmas, the AbbÃ©
 Lamy, Professor at the University of Louvain, has here selected
 one of its most precious monuments for translation and comment.
 Not less remarkable for the charm of their antique simplicity of
@@ -30011,7 +29989,7 @@ Ambrosian.
 
                       "----e di te solo
   Basti ai posteri tuoi ch'alquanto accume:
-  Che quel poco darà lunga memoria
+  Che quel poco darÃ  lunga memoria
   Di poema dignissima e d'istoria." [Footnote 121]
          _Gierusalemme Liberata_, TASSO.
 
@@ -30199,7 +30177,7 @@ enterprise and quitting Spain.
 
 Fourth. The same prior saddling a mule at midnight to confront
 the dangers of mountain passes, and an enemy's country, in order
-to intercede for Columbus with the queen at Santa Fé.
+to intercede for Columbus with the queen at Santa FÃ©.
 
 Fifth. The same noble monk pleading the cause of Columbus before
 the queen with such chivalrous enthusiasm that "Isabella never
@@ -30229,7 +30207,7 @@ acquired the dignity of an historical fact. That Prescott should
 have followed Irving is not surprising. That Lamartine should
 have disdained reference to historical sources and spoken of
 Spain of the fifteenth century with that wonderful _sans
-gêne_ that improvises both form and substance, that writes an
+gÃªne_ that improvises both form and substance, that writes an
 apotheosis of Robespierre and calls it a history of the
 Girondins, in which there is, of course, a florid description of
 "the last banquet," (which never took place,) is still less
@@ -30352,7 +30330,7 @@ sagacity, impartiality, and fidelity are universally recognized,
 thus relates the matter of the cosmographers, but not once does
 he mention "council" or "Salamanca." He says (1st Dec. book i,
 chap. vii.) "that Columbus's suit was so home pressed (y tanto se
-porfiò en ello) that their Catholic majesties, giving some
+porfiÃ² en ello) that their Catholic majesties, giving some
 attention to the affair, referred it to father Ferdinand de
 Talavera. He (Talavera) held a meeting of cosmographers who
 debated about it, (qui confirieron en ello,) but there being few
@@ -30380,7 +30358,7 @@ many passages, his very words. Fernando makes no mention of
 Salamanca, says expressly that the cosmographers were called
 altogether by Talavera, and that Columbus held back his most
 important proofs lest what had happened him in Portugal might
-also happen him in Spain, (nè lo ammiraglio si volea lasciar
+also happen him in Spain, (nÃ¨ lo ammiraglio si volea lasciar
 tanto intendere che gli avenisse quel, che in Portogallo gli
 avvenne et gli urbassero la beniditione.)
 
@@ -30409,25 +30387,25 @@ fifteenth century. _It is clear, nevertheless, that Columbus
 established his propositions, produced his proofs, and met every
 objection_. [Footnote 124]
 
-    [Footnote 124:  Talavera á quien los reyes encargaron la
-    comision de juntar à los sujetis habiles in cosmografia, para
+    [Footnote 124:  Talavera Ã¡ quien los reyes encargaron la
+    comision de juntar Ã  los sujetis habiles in cosmografia, para
     examinar la empresa, y dar su pareceo. Formose la junta en
-    Salamanca, quizá per el invierno estando alli la corte. Es
+    Salamanca, quizÃ¡ per el invierno estando alli la corte. Es
     lastima quo no hayan quidado documentis de las disputas que
     se tuvieron en el convento de los dominicanos de San Esteban
     para formar juicio del estado de las matematicas y astronomia
     en aquella universidad famosa en el siglo XV. Coustu que
     Colon sentaban sus proposisciones, exponfa sus fundamentos, y
-    satisfaciá a' las dificultades.]
+    satisfaciÃ¡ a' las dificultades.]
 
 Munoz (_Historia del Nuevo Mundo_, pp. 57, 58, 59)
 continues: "Los dominicanos poner entre sus glorias el haber
 hospedado en San Esteban al descubridor de las Indias, dadole de
 comer y otros auxilios para seguir sus pretensiones; y sobra todo
-el haber estado por su opinion en equellas disputas, y atraido á
+el haber estado por su opinion en equellas disputas, y atraido Ã¡
 su partido los primeros hombres de la escuela. En lo qual
-attribuyen la principal parte á Fray Diego Deza. ... cuyo
-autoridad. ... contribuyó mucho para los creditos y acceptacion
+attribuyen la principal parte Ã¡ Fray Diego Deza. ... cuyo
+autoridad. ... contribuyÃ³ mucho para los creditos y acceptacion
 de la empresa." [Footnote 125]
 
     [Footnote 125: The Dominicans are justly proud of the
@@ -30572,17 +30550,17 @@ declaiming their grandest passages.
     Marchese, mean Cortes, and the Florentines, when they name
     _Il Segretario_, mean Macchiavelli.]
 
-Luther, as we learn from that remarkable book, _D'Aubigné's
+Luther, as we learn from that remarkable book, _D'AubignÃ©'s
 History of the Reformation, discovered_, unexpectedly
 discovered, to his great joy and surprise, a Bible chained to a
-window in the conventual library! Could not some modern D'Aubigné
+window in the conventual library! Could not some modern D'AubignÃ©
 inform us how it was that an obscure Italian sailor could have
 happened upon a Bible in such countries as Italy, Portugal, and
 Spain, could have been permitted to read it--more than all that,
 could have had the temerity to quote it to the very face of
 monks, and priests, and, worse still, show them that he knew as
 much about it as they did? We commend the subject to the
-D'Aubigné editors.
+D'AubignÃ© editors.
 
 In saying that, in our belief, the life of Columbus has yet to be
 written, we express no new opinion.
@@ -30624,7 +30602,7 @@ Columbus himself, for he has recorded it. We quote from Navarette
   Indies." [Footnote 127]
 
     [Footnote 127: "Por lo cual decia el mismo Colon que
-    _desde_ que vino á Castilla le habia favorecido aquel
+    _desde_ que vino Ã¡ Castilla le habia favorecido aquel
     prelado y deseado su honora, y que el fue causa que SS. AA.
     tuviesen las Indias."]
 
@@ -30732,7 +30710,7 @@ from luncheon, and he sometimes dined out, rather than sit beside
 that smiling papist who was doubtless triumphing over him in her
 heart, taking his silence for defeat. He groaned as he heard her
 light step pass his door every morning on her way to early mass.
-That step was his _réveil_. Should he, the Gospel watchman,
+That step was his _rÃ©veil_. Should he, the Gospel watchman,
 sleep while the foe was awake and at work?
 
 "Why cannot truth inspire as much ardor as error awakens?" he
@@ -32248,11 +32226,11 @@ Magdalen, and at her own request. The universal interest felt in
 her story, and the sympathy it always excites, induced me to
 visit a place that cannot be disconnected from her memory--the
 chapel of the Carmelites in the Rue d'Enfer, where she took the
-veil. I refer to Madame de la Vallière, whom Madame de Sevigné
+veil. I refer to Madame de la ValliÃ¨re, whom Madame de SevignÃ©
 calls "la petite violette qui se cachait sous l'herbe."
 
 A priest was just commencing mass when I entered the chapel. I
-knelt down by the tomb of the Cardinal de Bérulle, who used to
+knelt down by the tomb of the Cardinal de BÃ©rulle, who used to
 come here to pray in the chapel of St. Magdalen, having a great
 devotion to that saint. It was difficult to resist the
 distractions that were inevitable in such a spot, but in which I
@@ -32270,12 +32248,12 @@ officiating priest, that you might have supposed no one else
 there. But after the Agnus Dei, came out from that mysterious
 recess a murmur from unseen lips like a voice from another world.
 It was that of the nuns all saying the Confiteor together before
-going to holy communion. That murmur of _mea culpâ, mea
-culpâ_, seemed like the voice of penitence from La Sainte
+going to holy communion. That murmur of _mea culpÃ¢, mea
+culpÃ¢_, seemed like the voice of penitence from La Sainte
 Beaume, or the voice of past times repeating the accents of the
-repentant La Vallière. There she lived and prayed and did penance
+repentant La ValliÃ¨re. There she lived and prayed and did penance
 for thirty-six years, longer than Magdalen in her cave, "son
-coeur ne respirant que du côté du ciel," thus displaying a
+coeur ne respirant que du cÃ´tÃ© du ciel," thus displaying a
 remarkable strength of volition, and therefore of character; for
 "What is character but a perfectly formed will?" says Novalis.
 Before that altar she used to come two hours before the rest of
@@ -32334,7 +32312,7 @@ without happiness, and instead thereof find blessedness." That
 happiness alone is real which does not depend on contingencies.
 It is reasonably satisfied with the present, and has a constantly
 increasing hope in the future. Such was the happiness Madame de
-la Vallière found among the pale-eyed votaries of the cloister, a
+la ValliÃ¨re found among the pale-eyed votaries of the cloister, a
 satisfaction of the soul which became perfect happiness when
 death came to her after so many years of dying.
 
@@ -32383,7 +32361,7 @@ lower depths.
 All these things passed through my mind while lingering in the
 chapel of the Carmelites. In that chapel had resounded the grand
 tones of the great Bossuet at the profession of Madame de la
-Vallière, with his usual refrain--the emptiness of all earthly
+ValliÃ¨re, with his usual refrain--the emptiness of all earthly
 things. "Away, earthly honors!" he said on that occasion, "all
 your splendor but ill conceals our weaknesses and our faults;
 conceals them from ourselves, but reveals them to
@@ -32400,12 +32378,12 @@ would be restrained on every side, by frightful grates, a
 profound solitude, an impenetrable cloister, perfect obedience, a
 rule for every action, a motive for every step, and a hundred
 observant eyes. Thus hemmed in on all sides, the soul can only
-fly heavenward. _Elle ne peut plus respirer que du côté du
+fly heavenward. _Elle ne peut plus respirer que du cÃ´tÃ© du
 ciel_"--a beautiful expression, recalling the lines from an
-old manuscript poem in the _Bibliothèque Royal:_
+old manuscript poem in the _BibliothÃ¨que Royal:_
 
   "Li cuers doit estre
-   Semblans à l'encensoir
+   Semblans Ã  l'encensoir
    Tous clos envers la terre
    Et overs vers le ciel."
 
@@ -32414,9 +32392,9 @@ toward heaven; and such is the heart of the real spouse of
 Christ.
 
 When Bossuet had finished his discourse and the black veil was
-placed upon the head of La Vallière, the whole audience wept
-aloud. The Duchess de la Vallière was now Louise de la
-Miséricorde, vowed to the rigorous life of the Carmelites, to
+placed upon the head of La ValliÃ¨re, the whole audience wept
+aloud. The Duchess de la ValliÃ¨re was now Louise de la
+MisÃ©ricorde, vowed to the rigorous life of the Carmelites, to
 fasts and vigils, to sackcloth and ashes.
 
 Philosophers say no motion is ever lost, and that every act is
@@ -33297,14 +33275,14 @@ valley, through which runs the Genil river, on one side the
 Periquete Hills (Sierra Ronda) and the Hacho. The Manzanil unites
 here with the Genil, both rapid and clear mountain streams
 fertilizing a lovely valley. Soon after leaving Loja, we reach
-Santa Fé, (Holy Faith,) built by Queen Isabella to shelter her
+Santa FÃ©, (Holy Faith,) built by Queen Isabella to shelter her
 army in winter during the siege of Granada in 1492, and called
-"Santa Fé" because she looked upon the war as a struggle for the
+"Santa FÃ©" because she looked upon the war as a struggle for the
 faith, and believed piously in its happy issue. This little town
 has been the scene of many important operations and political
 acts. It witnessed the signing of the capitulation of Granada,
 and it was to this town that Columbus was recalled by Isabella
-when he had already reached the bridge of Piños, behind the
+when he had already reached the bridge of PiÃ±os, behind the
 mountains, determining to ask aid elsewhere for his great
 undertaking.
 
@@ -33323,9 +33301,9 @@ there. Driving through beautiful ornamental grounds out of the
 Alhambra gate, down a steep hill in the old Moorish looking city,
 we find the cathedral, like that of Malaga, greatly ornamented,
 (in the Greco-Roman style,) built in 1529. Within the sanctuary
-are eleven pictures by Alonzo Caño, and two of his most
+are eleven pictures by Alonzo CaÃ±o, and two of his most
 celebrated pieces of sculpture--the heads of Adam and Eve carved
-in cork. Caño was a native of Granada, and is buried in the
+in cork. CaÃ±o was a native of Granada, and is buried in the
 Cathedral Bocanegra. Another of the celebrated artists of Spain
 was also a native here, and the cathedral has several of his
 pictures. But everything connected with the church sinks into
@@ -33358,7 +33336,7 @@ accompanied his beloved mistress to her last home.
 
 The inscription which runs around the cornice tells: "This chapel
 was founded by their most Catholic Majesties, Don Fernando and
-Doña Isabel, king and queen of las Españas of Naples, of
+DoÃ±a Isabel, king and queen of las EspaÃ±as of Naples, of
 Sicily--of Jerusalem--who conquered this kingdom, and brought it
 back to our faith; who acquired the Canary Islands and Indies, as
 well as the cities of Oran, Tripoli, and Bugia; who crushed
@@ -33396,7 +33374,7 @@ Gonzales de Cordova--"El gran Capitan." In the refectory is shown
 a cross, painted on the wall by Cotan, which so well imitates
 wood that the very birds fly to it, and try to perch there. The
 church has a beautiful statue of St. Bruno upon the altar; and a
-larger one in the chapel of the Sagrario, by Alonzo Caño, is
+larger one in the chapel of the Sagrario, by Alonzo CaÃ±o, is
 especially fine. The sacristy is rich in marbles from the Sierra
 Nevada, and the doors and other wood-work of the church and
 chapel are made of the most curious and beautiful inlaid
@@ -33406,7 +33384,7 @@ after so adorning this chapel, behold! the monks are driven from
 it.
 
 In the church are several lovely pictures--a head of our Lord by
-Murillo; a copy, by Alonzo Caño, of the Viergo del Rosario in the
+Murillo; a copy, by Alonzo CaÃ±o, of the Viergo del Rosario in the
 Madrid gallery, and a copy of one of the "Conceptions" of Murillo
 --that one with the fair flowing hair, so very lovely.
 
@@ -33731,7 +33709,7 @@ Led by a little boy, and following the wall, we come upon a
 plantation of cactus, with its red and yellow fruit, which a man
 is gathering with great scissors, to prevent its prickings. A
 woman politely cuts and pares some for us to taste. It is sweet
-and juicy; is much eaten by the poor, who call it "Tuños." They
+and juicy; is much eaten by the poor, who call it "TuÃ±os." They
 also make from it a palatable drink--a sort of beer. Hans
 Andersen has written a pretty sonnet to the cactus, which seems
 especially applicable to this time and occasion.
@@ -33756,7 +33734,7 @@ walled up, so that no one should ever pass through it after him,
 and his conquerors acceded to his request. Returning through one
 of the many beautiful paths leading to our hotel, we diverge to
 look at a view which presented itself, and find we are near the
-villa of Señora Calderon. Here, terrace above terrace rises in
+villa of SeÃ±ora Calderon. Here, terrace above terrace rises in
 view of the mountains, and on the summit is an artificial lake,
 with bridges and boats, and winding walks, and flowers and
 fruits, and statues and fountains--everything to make a perfect
@@ -33804,7 +33782,7 @@ is allowed you." The hospital is built round a large court, with
 fountains and gardens, and a double row of corridors in which sat
 the sick poor, clean and comfortable. It communicates with the
 church, which has several good pictures, and a head of St. John
-the Baptist, carved by Caño.
+the Baptist, carved by CaÃ±o.
 
 In a richly ornamented chapel behind the great altar is the body
 of the saint in a silver casket. The remains of St. Feliciana are
@@ -33826,7 +33804,7 @@ betrayed the city to them, made terms for themselves, and thus
 brought upon themselves the eternal enmity of the Spaniards, who
 treated them with great rigor after the conquest, and finally
 banished them. In the story of the three beautiful princesses,
-this tower plays an important _rôle;_ here were confined the
+this tower plays an important _rÃ´le;_ here were confined the
 captive Spanish knights who eloped with the Infantas, (daughters
 of Mohammed the left-handed,) and beyond, rising above the deep,
 romantic ravine, is the Tower of the Princesses, beneath which
@@ -33863,7 +33841,7 @@ the while in terror for his safety.
 
 {488}
 
-Such is the Spanish diligence from the "coupé." In the interior,
+Such is the Spanish diligence from the "coupÃ©." In the interior,
 shut out from the front view, one only hears the united voices of
 the "conductors," and it is less exciting. We who are above,
 however, have the advantage of a fine view of the mountains, (the
@@ -33887,7 +33865,7 @@ assumes power.
 
 Topete (the admiral who, at Cadiz, brought over the fleet) is
 also in Madrid; and Serrano, the prince of the traitors, is
-president of the provisional government. The table d'hôte is
+president of the provisional government. The table d'hÃ´te is
 crowded with men of the press, (letter-writers of all nations,)
 giving their several impressions of matters to the gullible
 "public," and interpreting events to suit the taste of their
@@ -34242,7 +34220,7 @@ missions; the sermons in Lent in the parish; the general
 indulgences granted by the pope; the cardinals in the senate; and
 the Capuchins who went barefooted--were all equally the objects
 of his strong aversion. He read continually the _Journal des
-Débats_, the _Revue des Deux Mondes_, and the liberal
+DÃ©bats_, the _Revue des Deux Mondes_, and the liberal
 journal of his department--of that department in which he played
 a prominent part. Shall we say, in excuse for him, that his
 impiety had never been tried by adversity; and that he had found
@@ -34311,7 +34289,7 @@ Christian education. Their eldest daughter, Amelia, had been
 married about a year; and they were now very happy in expectation
 of her approaching maternity. The second daughter was finishing
 her education in the same convent of Benedictines where her
-mother had been in her youthful days. Their son André was in a
+mother had been in her youthful days. Their son AndrÃ© was in a
 polytechnic school, and their youngest, Maurice, was pursuing his
 Latin studies in his native village.
 
@@ -34337,7 +34315,7 @@ little children.
 {495}
 At this moment we find Camille in the drawing-room with her
 father, who is half asleep before a great fire, with the
-_Débats_ at his feet. She is sewing on some linen for the
+_DÃ©bats_ at his feet. She is sewing on some linen for the
 coming baby; but twice stops to read two short letters received
 that morning from two of her absent children. After a thousand
 details about boarding, upon the compositions in history, upon
@@ -34349,7 +34327,7 @@ when the gentle God will answer us--as if grandpapa was going to
 be astonished that he had been able to live so long without
 thinking of God!"
 
-The second letter was from André, and would have been
+The second letter was from AndrÃ©, and would have been
 unintelligible to any one who did not possess the key to a
 school-boy's language. But at the end there was a passage which
 Camille kissed again and again: "Dear mamma, I love you, and I
@@ -34561,7 +34539,7 @@ their deliberations, gathered by a notary, with the votes and
 motives alleged for or against, in case of a disagreement, was
 then to be transmitted to the bishops. These, again, held private
 congregations where they occupied themselves solely with
-questions already debated by the theologians. _A procès
+questions already debated by the theologians. _A procÃ¨s
 verbal_ was made, by the secretaries, of what passed in these
 meetings. A new examination and judgment was made in this second
 instance; yet these preliminary discussions decided nothing; all
@@ -34980,7 +34958,7 @@ distinguish them.
 A see becomes vacant, the bishops of the province meet in synod,
 or any other way, and discuss the aptitude of the candidates
 presented by each of them. After a secret examination, three
-names are sent to Rome with the _procès verbal_ of this
+names are sent to Rome with the _procÃ¨s verbal_ of this
 election. On the representation thus made, the sovereign pontiff
 designates the one to be promoted to the episcopal dignity.
 
@@ -35550,7 +35528,7 @@ canons and discipline. But several States have already done what
 is reasonable in this respect; it is hoped that others will soon
 follow their example.
 
-Such is the incomplete but at least faithful _résumé_ of the
+Such is the incomplete but at least faithful _rÃ©sumÃ©_ of the
 decrees of this great assembly. In reading, one is struck with
 the wisdom and prudence which characterize them. After the divine
 assistance, certainly not denied to so holy an undertaking, one
@@ -37111,24 +37089,24 @@ further removed from real disinterested virtue than that of the
 Porch.
 
 Mr. Lecky denounces the morality of the church as selfish, and
-says the selfish system triumphed with Bossuet over Fénélon; but
+says the selfish system triumphed with Bossuet over FÃ©nÃ©lon; but
 happily for us he is not competent to speak of the morals
 enjoined by the church. He does not understand the question which
 was at issue, and entirely misapprehends the matter for which
-Fénélon was censured by the Holy See. The doctrine of Fénélon, as
+FÃ©nÃ©lon was censured by the Holy See. The doctrine of FÃ©nÃ©lon, as
 he himself explained and defended it, was never condemned, nor
 was that of Bossuet, which, on several points, was very unsound,
-ever approved. Several passages of Fénélon's _Maxims of the
+ever approved. Several passages of FÃ©nÃ©lon's _Maxims of the
 Saints_ were censured as favoring quietism, already condemned
 in the condemnation of Molinos and his adherents--a doctrine
-which Fénélon never held, and which he sought in his
+which FÃ©nÃ©lon never held, and which he sought in his
 _Maxims_ to avoid without running into the contrary extreme,
 but, the Holy See judged, unsuccessfully. His thought was
 orthodox, but the language he used could be understood in a
 quietistic sense; and it was his language, not his doctrine, that
 was condemned.
 
-The error favored by Fénélon's language, though against his
+The error favored by FÃ©nÃ©lon's language, though against his
 intention, was that it is possible in this life to rise and
 remain habitually in such a state of charity, or pure love of God
 for his own sake, of such perfect union with him, that in it the
@@ -37158,7 +37136,7 @@ is to be indifferent whether we please God or offend him, whether
 we are united to him or alienated from him.
 
 It is a great mistake to represent the doctrine the church
-opposed to quietism or to Fénélon as the selfish theory of
+opposed to quietism or to FÃ©nÃ©lon as the selfish theory of
 morals. To act from simple fear of suffering or simple hope of
 happiness, or to labor solely to escape the one and secure the
 other, is, of course, selfish, and is not approved by the church,
@@ -37895,7 +37873,7 @@ all earthly associations, all earthly communions."
 
 Those who are familiar with the Raphael series of Madonnas will
 recall, in this connection, his exquisite pastoral _La
-Jardinière_. There is also one similarly entitled by a French
+JardiniÃ¨re_. There is also one similarly entitled by a French
 artist, though differently treated. The virgin is enthroned on
 clouds, and holds the infant, whose feet rest on a globe. Both
 mother and child are crowned with roses; and on each side, as if
@@ -38292,7 +38270,7 @@ sea no longer rolls between him and home, and over and above the
 din of battle floats the voice of mother and sister in loving
 prayer for the absent one, who, impelled by a noble people's cry
 for aid, hastened to the rescue, and found instead of the
-_élan_ of battle the cold, dark walls of a prison home. Lo!
+_Ã©lan_ of battle the cold, dark walls of a prison home. Lo!
 the power and pathos of a little child and a fragile flower
 within the walls of a dungeon.
 
@@ -39193,7 +39171,7 @@ Debates_, called the _Chronometrical Review_. It
 certainly should be regularly sent to its subscribers. If the
 carrier is late, it cannot be for want of knowing if he has
 to-day's or yesterday's paper; and the subscribers are never
-exposed to _chercher midi à quatorze heures_.
+exposed to _chercher midi Ã  quatorze heures_.
 
 M. Claudius Saurrier, the chief editor of this _Chronometrical
 Review_, has also a clock-maker's annual almanac for 1869.
@@ -39204,7 +39182,7 @@ will find some things to greatly interest us. For example, a
 sketch of different attainable speed:
 
                               Miles per hour.
-  The soldier in ordinary step makes,    2¾
+  The soldier in ordinary step makes,    2Â¾
   The soldier in a charge                4
   The soldier in gymnastic exercise,     7
   The horse walking,                     3
@@ -39257,7 +39235,7 @@ workman seeking employment, but with the design of abstracting
 the pocket-book of the proprietor. The scene is dialogued as the
 two parts of a clock containing the chimes of the north, the
 solemn stillness of the night broken by question and response,
-until they mingled in a _naïve contre-point_.
+until they mingled in a _naÃ¯ve contre-point_.
 
 "Thy purse," said the thief.
 
@@ -39341,7 +39319,7 @@ and saints.
 Time has not always been lost through the instruments that
 indicate its flight. Ages have changed even palaces; and the
 Palais Royal, whose cannon gives us still the exact hour of
-mid-day, once knew no hours for its _habitués_, and vice and
+mid-day, once knew no hours for its _habituÃ©s_, and vice and
 immorality consumed the time that virtue now gives to better
 purposes. The poet of 1830 said:
 
@@ -39411,7 +39389,7 @@ opinion, its chief value consists in the refutation of the
 Calvinistic doctrine, and its discrimination of the modern
 prevalent Catholic opinion derived from St. Anselm from the dogma
 properly so called. The essay on development is one of the ablest
-portions of the book. Möhler, in his _Athanasius_, has
+portions of the book. MÃ¶hler, in his _Athanasius_, has
 accused Petavius of overstating or pressing too far, in his
 controversial zeal, the well-known points of his thesis
 respecting the doctrine of the anti-Nicene fathers against Bishop
@@ -39600,7 +39578,7 @@ Catholic in tone and sentiment, but is not of the belligerant
 class. There are no religious discussions indulged in for the
 sake of displaying one's theological knowledge; but the whole
 atmosphere of the book--the whole sentiment is Catholic, and the
-reader feels it, just as one in reading à Kempis would know and
+reader feels it, just as one in reading Ã  Kempis would know and
 feel that the writer was a devout, practical Catholic.
 
 The typographical execution of the book might easily be improved
@@ -39609,12 +39587,12 @@ by employing a better proof-reader and the use of better type.
 ----
 
   Chips From A German Workshop.
-  By Max Müller, M. A.
+  By Max MÃ¼ller, M. A.
   2 vols. crown 8vo, pp. 374, 402.
   New York: Charles Scribner & Co.
 
 These two volumes consist of various essays, lectures, etc.,
-which Professor Müller has published from time to time during the
+which Professor MÃ¼ller has published from time to time during the
 intervals of his long years of labor on the Rig-Veda. They are
 all more or less closely connected with the great work to which
 he has devoted his life, and are all illustrations of a
@@ -39631,7 +39609,7 @@ beginning have undergone various changes, corruptions, and
 combinations, yet, though frequently distorted, tend again and
 again to their perfect form.
 {572}
-Professor Müller traces these primitive ideas through the ancient
+Professor MÃ¼ller traces these primitive ideas through the ancient
 religions of India and Persia, and extracts from the forbidding
 obscurity of Sanscrit literature a wealth of illustration, which,
 with his charming style and incomparable happiness in selection,
@@ -39735,12 +39713,12 @@ brethren, etc.
 
 ----
 
-  Fénélon's Conversations With M. De Ramsai On The Truth Of
+  FÃ©nÃ©lon's Conversations With M. De Ramsai On The Truth Of
   Religion, With his Letters on the Immortality of the Soul, and
   the Freedom of the Will.
   Translated from the French by A. E. Silliman. 1869.
 
-Fénélon was a genius and a saint. He had, moreover, the faculty
+FÃ©nÃ©lon was a genius and a saint. He had, moreover, the faculty
 of expressing his thoughts in a remarkably clear style, and
 throwing a peculiar charm about every subject he handled. The
 conversations with Chevalier Ramsay form a short treatise,
@@ -39749,39 +39727,39 @@ is very admirable, and Mr. Silliman has done a good service in
 translating it, with the two other short but excellent treatises
 which are appended. The translator's preface, which is perfectly
 calm and passionless in its tone, gives a brief but interesting
-sketch of Fénélon's character, and of some of the events of his
+sketch of FÃ©nÃ©lon's character, and of some of the events of his
 life, and relates the circumstance which gave occasion to the
 conversations with Chevalier Ramsay. As it alludes to the
 condemnation of the _Maxims_ by the pope, and states that
 this condemnation was given reluctantly and under threats from
 the king of France, it may be well to explain this matter in a
-few words. It is true that the accusation of Fénélon at Rome was
+few words. It is true that the accusation of FÃ©nÃ©lon at Rome was
 made through enmity against his person, and in a manner
 discreditable to the parties concerned, and very displeasing to
 the pope. It is not true, however, that the decision was given in
 accordance with the wishes of the king on account of his
 entreaties or threats. The pope did not wish to have the matter
 brought before him, because he preferred to leave the errors of
-Fénélon's book to be corrected by milder methods than a public
+FÃ©nÃ©lon's book to be corrected by milder methods than a public
 condemnation, and desired to spare so great and holy a
 prelate--who had erred only through a mistaken judgment of the
 true sense of certain statements of the most approved mystic
 authors--the mortification of a public censure and a formal
-retraction. The action of Fénélon's enemies made the matter so
+retraction. The action of FÃ©nÃ©lon's enemies made the matter so
 public and notorious, and brought his erroneous statements into
 such a clear light that it was impossible to avoid an examination
 and judgment without scandal. The judgment was impartial, and was
-necessarily against Fénélon, whose doctrine was clearly
+necessarily against FÃ©nÃ©lon, whose doctrine was clearly
 irreconcilable with the teaching of the church. At the same time,
 a sharp reproof was given to his accusers for the spirit which
 they had shown in pushing matters to extremes, and the personal
-respect and esteem of the pope for Fénélon were clearly
+respect and esteem of the pope for FÃ©nÃ©lon were clearly
 manifested.
 
 The translator has added a very judicious note to the treatise on
 the immortality of the soul, justly censuring certain statements
 of the author on the nature of the connection between soul and
-body. Like many other writers of that time, Fénélon was too much
+body. Like many other writers of that time, FÃ©nÃ©lon was too much
 influenced by the philosophy of Descartes whose ridiculous theory
 of occasional causes appears in the passages criticised by Mr.
 Silliman. On this point, the language of the Protestant
@@ -39799,7 +39777,7 @@ The translation is well done, and the mechanical execution of the
 book, which is a medium between a volume and a pamphlet, is
 elegant. If the translator finds sufficient encouragement in the
 reception which it meets with to induce him to continue, we
-recommend to him the translation of Fénélon's admirable treatise
+recommend to him the translation of FÃ©nÃ©lon's admirable treatise
 on the existence and attributes of God, as a work which we should
 welcome as a timely and valuable addition to our English
 religious literature.
@@ -40019,12 +39997,12 @@ complete elucidation of the text.
 -----
 
   The Fisher-Maiden. A Norwegian Tale.
-  By Björnstjerne Björnson.
+  By BjÃ¶rnstjerne BjÃ¶rnson.
   From the Author's German Edition,
   by M. E. Niles.
   New York: Leypold & Holt. 1869.
 
-"An artist, not a photographer, Björnson draws souls more than
+"An artist, not a photographer, BjÃ¶rnson draws souls more than
 faces." "In these times of blatant novelists, it is no ordinary
 treat to get a story which affects one almost as finely as a
 poem."
@@ -42423,7 +42401,7 @@ important air, "I can tell you, sir, the singing is quite a
 secondary thing in the opera, for I know the public."
 
 Here several persons, invited guests of the composer, came in;
-among them Mozart's pupils, Sutzmayr and Holff, with the Abbé
+among them Mozart's pupils, Sutzmayr and Holff, with the AbbÃ©
 Stadler and the excellent tenorist, Peyerl. After an hour or so
 spent in agreeable conversation, enlivened by an air from Mozart,
 they went to the dinner-table. Schickaneder here played his part
@@ -42519,7 +42497,7 @@ young composer.
 
 Among the churches of Paris which I visited in my saunterings,
 whose very stones seemed to have a tongue and cry aloud, was the
-interesting one of St. Germain des Près.
+interesting one of St. Germain des PrÃ¨s.
 
   "Each shrine and tomb within thee seems to cry."
 
@@ -42537,7 +42515,7 @@ persecuted there on account of his religion, and had the choice
 of prison or banishment. So he chose to be exiled, and went back
 to France, where he ended his days in practices of piety. He used
 to attend the canonical hours at the abbey of St. Germain des
-Près, and even rose for the midnight office. It was no unusual
+PrÃ¨s, and even rose for the midnight office. It was no unusual
 thing in the middle ages for the laity to assist at the night
 offices, and the church encouraged the practice. There was a
 confraternity in Paris, in the thirteenth century, composed of
@@ -42593,8 +42571,8 @@ The front and sides are of crystal, through which are seen the
 relics of St. Aurelia, from the Roman catacombs. Seven large
 hanging lamps burn before it, and an innumerable quantity of
 tapers. On the walls are _ex voto_ and many marble tablets
-with inscriptions of gratitude to Mary; such as: "_J'ai invoqué
-Marie, et elle m'a exaucé._" "_Reconnaissance à Marie_,"
+with inscriptions of gratitude to Mary; such as: "_J'ai invoquÃ©
+Marie, et elle m'a exaucÃ©._" "_Reconnaissance Ã  Marie_,"
 etc. It is extremely interesting and curious to examine all
 these, and they wonderfully kindle our faith and fervor.
 
@@ -42610,7 +42588,7 @@ the Blessed Virgin Mary, by King John Casimir, on the first of
 April, 1656. On the same day, 1856, all the Polish exiles in
 Paris assembled at Notre Dame des Victoires, to renew their vows
 to Mary and make their offering, which was received and blessed
-by M. l'Abbé Desgenettes, the venerable curé, and founder of the
+by M. l'AbbÃ© Desgenettes, the venerable curÃ©, and founder of the
 renowned arch-confraternity of the Immaculate Heart of Mary. A
 lamp burns perpetually before this touching memorial, emblem of
 the faith, hope, and charity of the donors.
@@ -42669,9 +42647,9 @@ with bare feet. The streets through which they passed were
 sumptuously adorned. In 1793, the holy crown was transferred to
 the Hotel des Monnaies, where it was taken from its reliquary and
 given with other relics to the commission of arts under the care
-of Secretary Oudry, from whom the Abbé Barthélemi obtained it in
+of Secretary Oudry, from whom the AbbÃ© BarthÃ©lemi obtained it in
 1794. He was one of the conservateurs of the antique medals in
-the Bibliothèque Nationale, where the sacred relic remained till
+the BibliothÃ¨que Nationale, where the sacred relic remained till
 1804, when the Cardinal de Belloy, Archbishop of Paris, reclaimed
 the relics from the ministre des cultes. Every proper means was
 taken to identify them, which being satisfactorily done, the holy
@@ -42694,8 +42672,8 @@ and chapter of Paris by Anselle or Anseau, _grand-chantre_
 of the church of the Holy Sepulchre at Jerusalem, who had
 obtained it from the superior of the Georgian nuns in that city,
 the widow of David, king of Georgia. In 1793, M. Guyot de St.
-Hélène obtained permission to keep the cross of Anseau. He
-divided it with Abbé Duflost, guardian of the four crosses made
+HÃ©lÃ¨ne obtained permission to keep the cross of Anseau. He
+divided it with AbbÃ© Duflost, guardian of the four crosses made
 of the part he kept, of which three only have been restored to
 Notre Dame. M. Guyot took the precaution to have them
 authenticated, and they were restored to the veneration of the
@@ -42706,7 +42684,7 @@ faithful in 1803.
 Another portion of the true cross was called the Palatine cross,
 because it belonged to Anna Gonzaga of Cleves, a Palatine
 princess, who left it by her will to the Abbey of St. Germain des
-Près, attesting that she had seen it in the flames without being
+PrÃ¨s, attesting that she had seen it in the flames without being
 burnt. This relic was enclosed in a cross of precious stones,
 double, like the cross of Jerusalem. This cross had belonged to
 Manuel Comnenus, Emperor of Constantinople, who presented it to a
@@ -42716,21 +42694,21 @@ precious stones. It has two cross-pieces, like the crosses of
 Jerusalem, which are filled with the wood of the true cross. It
 is bordered with diamonds and amethysts. The Palatine princess
 received it from John Casimir, King of Poland, who took it with
-him when he retired to France. It was preserved by a curé in
+him when he retired to France. It was preserved by a curÃ© in
 1793, and restored, in 1828, to Notre Dame.
 
 There are two portions of the holy nails at Notre Dame de
 Paris--one formerly at the abbey of St. Denis, and the other at
-St. Germain des Près. The first was brought by Charles the Bald
+St. Germain des PrÃ¨s. The first was brought by Charles the Bald
 from Aix-la-Chapelle, it having been given Charlemagne by the
 Patriarch of Jerusalem.
 
-In 1793, M. Le Lièvre, a member of the Institute, begged
+In 1793, M. Le LiÃ¨vre, a member of the Institute, begged
 permission to take it from the commission des arts to examine and
 analyze it as a specimen of mineralogy. He thus saved it from
 profanation, and restored it to the Archbishop of Paris in 1824.
 
-The second portion was given to St. Germain des Près by the
+The second portion was given to St. Germain des PrÃ¨s by the
 Princess Palatine, who had received it from John Casimir of
 Poland.
 
@@ -42926,7 +42904,7 @@ died on the twelfth of January, having been abbot of St. Denis
 twenty-nine years and ten months, from 1122 to 1152. His tomb
 bore the simple inscription:
 
-  "Cy gist l'Abbé Suger."
+  "Cy gist l'AbbÃ© Suger."
 
 The charter for the foundation of the abbey of St. Denis was
 given by Clovis. It was written on papyrus, and among others the
@@ -43047,7 +43025,7 @@ worshipped, under obscure symbols, the generative forces or
 functions of nature.
 {620}
 In no gentile philosophy, not even in Plato or Aristotle, do you
-find any conception of God the Creator. Père Gratry, indeed,
+find any conception of God the Creator. PÃ¨re Gratry, indeed,
 thinks he finds the fact of creation recognized by Plato,
 especially in the _Timaeus_; but though we have read time
 and again that most important of Plato's dialogues, we have never
@@ -43176,7 +43154,7 @@ at once at pantheism, now so prevalent.
 
 That Descartes felt a difficulty in asserting creation in its
 proper sense, may be inferred from the fact that he always calls
-the soul _la pensée_, thought; never, if we recollect
+the soul _la pensÃ©e_, thought; never, if we recollect
 aright, a substance that thinks, which was itself a large stride
 toward pantheism, for pantheism consists precisely in denying all
 substantive existences except the one only substance, which is
@@ -44355,7 +44333,7 @@ vineyards, topped the neighboring hill.
 cheerful it looks up there! It is a home fit for princes."
 
 "You have indeed chosen a magnificent spot, father. Everything
-unites to make Frankenhöhe a delightful place. The vineyards on
+unites to make FrankenhÃ¶he a delightful place. The vineyards on
 the slopes of the hills, the smiling hamlet of Salingen to the
 right. In the background the stern mountain with its proud ruins
 on the summit of Salburg, the deep valleys and the dark ravines,
@@ -44367,10 +44345,10 @@ beautiful property.
 "You have forgotten a reason for my happy choice," said he, while
 a smile played on his features. "I mean the habit of my friend
 and deliverer, who, for the last eight years, spends the month of
-May at Frankenhöhe. You know the singular character of the
+May at FrankenhÃ¶he. You know the singular character of the
 doctor. Nothing in the world can tear him from his books. He has
 renounced all pleasure and enjoyment, to devote his whole time to
-his books. When Frankenhöhe entices and captivates the man of
+his books. When FrankenhÃ¶he entices and captivates the man of
 science, so strict, so dead to the world, it is, as I think, the
 highest compliment to our place."
 
@@ -44382,7 +44360,7 @@ along. The pleasant hamlet of Salingen lay a short distance to
 the left. A single house, separated from the village, and
 standing near the road in the midst of vineyards, came into view.
 The features of Herr Frank darkened as he turned his gaze from
-Frankenhöhe to this house. It was as though some unpleasant
+FrankenhÃ¶he to this house. It was as though some unpleasant
 recollection was associated with it. Richard looked at the
 stately mansion, the large out-houses, the walled courts, neat
 and clean.
@@ -44398,7 +44376,7 @@ Herr Frank did not hear these observations. He muttered some
 bitter imprecation. The coach gained the summit, left the road,
 and passed through vineyards and chestnut groves to the house.
 
-Frankenhöhe was a handsome two-story house whose arrangements
+FrankenhÃ¶he was a handsome two-story house whose arrangements
 corresponded to Frank's taste and means. Near it stood another,
 occupied by the steward. A short distance from it were stables
 and out-houses for purposes of agriculture.
@@ -44474,7 +44452,7 @@ here will always be his favorite object, and care has been taken
 with it. Here are the best books on all subjects, even theology
 and astronomy."
 
-"Frankenhöhe is indeed cheerful as the heart of youth and quiet
+"FrankenhÃ¶he is indeed cheerful as the heart of youth and quiet
 as a cloister," said Richard. "Your friend would indeed be
 ungrateful if this attention did not gratify him."
 
@@ -44610,7 +44588,7 @@ and doubtless she was the devotee of the place.
 
 Scarcely had his thoughts taken this direction when he turned
 away and walked to the border of the plot, and gazed at the
-country before him. He looked down toward Frankenhöhe, whose
+country before him. He looked down toward FrankenhÃ¶he, whose
 white chimneys appeared above the chestnut grove. He contemplated
 the plains with their luxuriant fields reflecting every shade of
 green--the strips of forests that lay like shadows in the sunny
@@ -44850,7 +44828,7 @@ Siegwart."
 It was the same building that had arrested Richard's attention as
 he passed it some days before, and the sight of which had excited
 the ill-humor of his father. Richard returned by a shorter way to
-Frankenhöhe. He was serious and meditative. Arrived at home, he
+FrankenhÃ¶he. He was serious and meditative. Arrived at home, he
 wrote in his diary:
 
   "May 13th.--Well, I have seen her. She exhibits herself as the
@@ -44887,7 +44865,7 @@ punctual as a repeater."
 that you depart a little from your regularity. Now everything is
 in good order, as I desired, for my friend and deliverer. I have
 just received a letter from him. He will be here in two days. I
-shall be glad to see the good man again. If Frankenhöhe will only
+shall be glad to see the good man again. If FrankenhÃ¶he will only
 please him for a long time!"
 
 "I have no doubt of that," said Richard. "The doctor will be
@@ -44896,7 +44874,7 @@ like Adam and Eve in paradise."
 
 "Everything will go on as formerly. I will be coming and going on
 account of business. You will, of course, remain uninterruptedly
-at Frankenhöhe. You are high in the doctor's esteem. You interest
+at FrankenhÃ¶he. You are high in the doctor's esteem. You interest
 him very much. It is true you annoy him sometimes with your
 unlearned objections and bold assertions. But I have observed
 that even vexation, when it comes from you, is not disagreeable
@@ -45102,13 +45080,13 @@ shall do so in a few days," answered Frank.
 "Herr Frank," said Siegwart, "may the accident which has given us
 the pleasure of your agreeable visit, be the occasion of many
 visits in future. I know that as usual you will spend the month
-of May at Frankenhöhe. We are neighbors--this title, in my
+of May at FrankenhÃ¶he. We are neighbors--this title, in my
 opinion, should indicate a friendly intercourse."
 
 "Let it be understood, Herr Siegwart; I accept with pleasure your
 invitation."
 
-On the way to Frankenhöhe Richard walked very slowly, and gazed
+On the way to FrankenhÃ¶he Richard walked very slowly, and gazed
 into the distance before him. He thought of the swallows that
 perched on Angela's shoulders and hands. Their sweet notes still
 echoed in his soul.
@@ -45124,7 +45102,7 @@ not an ultramontane, or the characteristics of the ultramontanes,
 as portrayed in the free-thinking newspapers of the day, were
 erroneous and false.
 
-Buried in such thoughts, he reached Frankenhöhe. As he passed
+Buried in such thoughts, he reached FrankenhÃ¶he. As he passed
 through the yard, he did not observe the carriage that stood
 there. But as he passed under the window, he heard a loud voice,
 and some books were thrown from the window and fell at his feet.
@@ -45162,7 +45140,7 @@ some bad books were included. What kind of writings are these,
 doctor?"
 
 "'Stupid materialistic trash,' said he.' If I had Vogt,
-Moleschott, Colbe, and Büchner here, I would throw them body and
+Moleschott, Colbe, and BÃ¼chner here, I would throw them body and
 bones out of the window.'
 
 "I was very much surprised at this declaration, so contrary to
@@ -45495,7 +45473,7 @@ on the subject.
   all those who hear, see, or read these presents, Greeting.
   Whereas, on the daily complaints of the inhabitants, we
   experience that our previous Ordinance and Edict relative to
-  the poor strung Wampum, published under date 30 May, A° 1650,
+  the poor strung Wampum, published under date 30 May, AÂ° 1650,
   for the accommodation and protection of the people, is not
   observed and obeyed according to our good intention and
   meaning; but that, on the contrary, such pay, even for small
@@ -45685,7 +45663,7 @@ he may be," to entertain any company on Sunday or during divine
 service.
 
 18 November, 1661.--They forbid all work on Sunday under "the
-penalty of £1 Flemish for the first time, double as much for the
+penalty of Â£1 Flemish for the first time, double as much for the
 second time, and _four times double as much_ for the third
 time." (Silent as to the fourth time.)
 
@@ -46805,7 +46783,7 @@ even these great pictures sink to nothingness beside Murillo's
 "Annunciation," his "Adoration of the Shepherds," "Eleazar at the
 Well," "The Martyrdom of St. Andrew," the "Divine Shepherd," the
 Infant Saviour giving St. John to drink from a shell, called "Los
-Niños de la Concha," the "Vision of St. Bernard," and those
+NiÃ±os de la Concha," the "Vision of St. Bernard," and those
 wonderful "Conceptions" which embody "all that is most sublime
 and ecstatic in devotion and in the representation of divine
 love."
@@ -46976,7 +46954,7 @@ At length we are cheered by the arrival of a lovely Spanish woman
 and her daughter, who are returning from their estate near by,
 and come, like ourselves, to wait the train for Madrid.
 
-The daughter had been educated in the Sacré Coeur Convent near
+The daughter had been educated in the SacrÃ© Coeur Convent near
 Madrid. Spoke French well. She told us in her lively way that,
 though these plains looked so brown and desert-like, they brought
 good crops and "put money in the pocket," and that back from the
@@ -47002,7 +46980,7 @@ From this we go to the most interesting of all, called the
 "Maison de la Providence," supported by the ladies of rank in
 Madrid, and under the care of the French Sisters of Charity, who
 wear the familiar "cornette." Here, besides _enfants
-trouvés_ and orphans, they have (or had) six hundred poor
+trouvÃ©s_ and orphans, they have (or had) six hundred poor
 children, taken out of the streets. Many of these are kept for
 the day, the parents seeking them at night: all of them are
 taught gratuitously. We were shown a room in which forty of the
@@ -47362,7 +47340,7 @@ at either end. The tower of Cambron, one of the great Moorish
 towers, is in front, in which is a lovely statue of St. Leocadia,
 and near the bridge of St. Martin, on the city side, is the site
 of the palace of the Gothic kings. Here are some arches of a ruin
-called "Los Vaños de Florinda"--she who was the daughter of the
+called "Los VaÃ±os de Florinda"--she who was the daughter of the
 apostate Don Julian, and with whose unhappy fate is involved that
 of the last of the Gothic kings.
 
@@ -47559,7 +47537,7 @@ what you promised years ago--your daughter. Sir Ralph de Mohun,
 you were once young, and blood coursed as fiery then as now. Can
 you find it in your heart to separate us? Then, secondly, your
 old friends at court offer entire restitution and pardon, if you
-will accept the new _régime_, with England's faith."
+will accept the new _rÃ©gime_, with England's faith."
 
 "If I have been true to my country, then must I still be true to
 my God! Philip Stratherne, if I had not loved you from your
@@ -47904,7 +47882,7 @@ political forms, adopting the ideas, the habits, the paltry
 interests of politics.
 
     [Footnote 168: Lest those who may be unacquainted with
-    previous conferences of Père Hyacinthe should interpret this
+    previous conferences of PÃ¨re Hyacinthe should interpret this
     passage as referring to the temporal power, we subjoin a
     quotation from a conference delivered by him in Notre Dame in
     the year 1867. Speaking of the complications caused by
@@ -48228,7 +48206,7 @@ But you ask me whose is this voice preaching a spiritual kingdom
 to priests, a divine royalty to kings and nations? The voice
 shall interpret itself; it shall tell its origin and mission.
 
-Here Père Hyacinthe relates the famous vision in which Isaiah
+Here PÃ¨re Hyacinthe relates the famous vision in which Isaiah
 receives his mission after a seraph has purified his lips with a
 burning coal. This is prophecy.
 
@@ -48716,7 +48694,7 @@ pointed by Aretino, whose virulent epigrams drew upon him such an
 amount of physical retaliation that a contemporary writer calls
 him "the loadstone of clubs and daggers." [Footnote 177]
 
-    [Footnote 176: Laharpe. _Cours de Littérature_, vol. i.
+    [Footnote 176: Laharpe. _Cours de LittÃ©rature_, vol. i.
     p. 435.]
 
     [Footnote 177: See Addison, _Spectator_, No. 23.]
@@ -48843,7 +48821,7 @@ occasion, a piece of sculpture, representing the ship of
 AEsculapius, was, owing to his exertions, discovered in the
 Tiber. This was considered by his omen-liking friends as an
 augury of his future dignity. The discovery of the famous group
-known as the Laocoön was an epoch in Rome. That evening, the
+known as the LaocoÃ¶n was an epoch in Rome. That evening, the
 bells were rung to announce the event; the poets, among whom was
 Sadoleti, lucubrated all night, preparing their hymns, sonnets,
 and canzoni, to welcome the reappearance of the masterpiece. Next
@@ -48946,7 +48924,7 @@ which he lived the golden age of Leo the Tenth.
 
   "Humble flowers of religious poetry, and derivations of popular
   expressions and proverbs," is the title given by the authoress
-  to the article headed "Cosas (humildes) de España"
+  to the article headed "Cosas (humildes) de EspaÃ±a"
   --_Humble Things of Spain_.
 
 
@@ -49044,7 +49022,7 @@ Now that we are enlightened, we have other uses for our gold, our
 rare objects, and fine arts; for, as the poet says,
 
   "En el sigh diez y nueve
-   Nadie á tener fé se atreve,
+   Nadie Ã¡ tener fÃ© se atreve,
    Y no huy que en milagros cred." [Footnote 183]
 
     [Footnote 183: In the nineteenth century, no one dares to
@@ -49140,7 +49118,7 @@ company of gipsies. The moment he cast his eyes upon it, he took
 to his heels, exclaiming, "Let some one buy you that don't know
 you."
 
-_Yo te cono cí ciruelo_--I knew you when you were a
+_Yo te cono cÃ­ ciruelo_--I knew you when you were a
 plum-tree--is a common saying. The people of a certain village
 bought a plum-tree of a gardener, for the purpose of having it
 converted into an effigy of St. Peter. When the image was
@@ -49149,10 +49127,10 @@ and, observing the somewhat lavish coloring and gilding of its
 drapery, exclaimed:
 
   "Gloriosisimo San Pedro,
-   Yo te cono cí ciruelo,
+   Yo te cono cÃ­ ciruelo,
    Y de tu fruta comi;
    Los misagros que tu hagas
-   Que me me los cuelgan á mi!"
+   Que me me los cuelgan Ã¡ mi!"
 
   "Most glorious Saint Peter!
    I knew you when you were a plum-tree,
@@ -49168,7 +49146,7 @@ _rajas_ are public property, they are distributed at a
 trifling rent to the poorer householders, who are, as will be
 supposed, very anxious to have them. But to obtain one is
 difficult, for the _ayuntamientos_, or town councils,
-generally give them to their _protégés_ and hangers-on; and,
+generally give them to their _protÃ©gÃ©s_ and hangers-on; and,
 from this circumstance, "He has got a hog-pasture," has come to
 be said of any person that by skill, cunning, audacity, or good
 luck succeeds in obtaining an advantage difficult to get, or of
@@ -49186,7 +49164,7 @@ river.
 {710}
 
 It is usual to indicate that a person is poor by saying, _El
-esta á la cuarta pregunta_--He is at the fourth question. This
+esta Ã¡ la cuarta pregunta_--He is at the fourth question. This
 assertion is derived from the interrogation of witnesses for the
 defence in suits when, among other circumstances, that of poverty
 is wished to be proved. This extreme being comprehended in the
@@ -49246,10 +49224,10 @@ means of support except the product of his own labor?"
 
         Foreign Literary Notes.
 
-The testimony of so distinguished an authority as M. E. Littré,
+The testimony of so distinguished an authority as M. E. LittrÃ©,
 of the French Institute, is now added to that of Digby, Maitland,
 Montalembert, and so many others, to show that the middle ages
-were not "barbarous." M. Littré, as is well known, is very far
+were not "barbarous." M. LittrÃ©, as is well known, is very far
 from being a Catholic; but, treating the subject with his great
 erudition from a purely historical point of view, he shows, in
 his _Etudes sur les Barbares et le Moyen Age_, that, after
@@ -49271,7 +49249,7 @@ reason that all its conceptions of man and of liberty were false,
 and it could never raise itself to the idea of a spiritual power
 that was independent of the lay power--on all these points, so
 worthy the attention of the historian, there are, particularly in
-the first two chapters, some admirable pages. M. Littré speaks
+the first two chapters, some admirable pages. M. LittrÃ© speaks
 with admiration of the spread of monachism in the west, and
 distinctly recognizes the many great blessings that followed in
 its train. He (p. 3) reproaches Gibbon with having ignored the
@@ -49311,7 +49289,7 @@ first of the reign of humanity."
 ----
 
 In the Foreign Literary Notes of our number for June, we noticed
-an important publication by the Abbé Lamy on the Council of
+an important publication by the AbbÃ© Lamy on the Council of
 Seleuciae, a translation from one of the numerous productions of
 early Syrian literature, so rich in works relative to the church,
 its history, its discipline, and its dogmas. And, in this
@@ -49324,7 +49302,7 @@ second column of the same page.
 
 {712}
 
-This work of the Abbé Lamy is one out of many recent publications
+This work of the AbbÃ© Lamy is one out of many recent publications
 showing the great attention lately given to the monuments of
 early Syrian literature by theologians of Europe. Especially in
 Germany is the activity great in this new field. It has long been
@@ -49390,7 +49368,7 @@ of the Vulgate, with the French translation, and a full body of
 commentaries--theological, moral, philological, and historical,
 edited so as to include the results of the best works in France,
 Italy, Germany, and elsewhere, with a special introduction for
-each book, by the Abbé Drach, D.D., and the Abbé Bayle, Professor
+each book, by the AbbÃ© Drach, D.D., and the AbbÃ© Bayle, Professor
 of the Faculty of Aix.
 
 ----
@@ -49451,7 +49429,7 @@ calculated to throw any light on the events of past centuries. In
 this direction works the Protestant Berner in the _Helvetia
 Sacra_, and the _Pius Verein_ promises great results in a
 collection of which the first volume has lately appeared,
-entitled, _Archiv für die Schweizerische
+entitled, _Archiv fÃ¼r die Schweizerische
 Reformnationsgeschichte. Herausgegeben auf Veranstaltung des
 Schweizerischen Piusvereins_. Erster Band. Solothurn. 8vo, 856
 pp. The central committee of this society consists of Count
@@ -49475,7 +49453,7 @@ five to seven years for publication.
 ----
 
 A recent number of the _Literarischer Handweiser_, edited at
-Münster by Dr. Franz Hülskamp and Dr. Herrmann Rump, contains an
+MÃ¼nster by Dr. Franz HÃ¼lskamp and Dr. Herrmann Rump, contains an
 article on Catholic journalism in the United States. Here is an
 extract:
 
@@ -49541,7 +49519,7 @@ fallen from a respectable position in life to honorable poverty.
 She was their only child, and became a complete orphan at the age
 of nine years. Her education had been provided for, as well as
 circumstances would permit, by her kind-hearted father, in the
-schools established in London by the Abbé Carron, a refugee
+schools established in London by the AbbÃ© Carron, a refugee
 priest of the French revolution. Slender, indeed, were the
 prospects of a poor Catholic orphan girl in the capital of a
 country so full of bigotry as was England in 1811. Having spent a
@@ -49623,8 +49601,8 @@ readers.
 ----
 
   Die Jenseitige Welt.
-  Eine Schrift Über Fegefeuer,
-  Hölle Und Himmel.
+  Eine Schrift Ãœber Fegefeuer,
+  HÃ¶lle Und Himmel.
   Von P. Leo Keel, Capitular des
   Stiftes Maria Einsiedeln.
   Einsiedeln, New York,
@@ -51922,7 +51900,7 @@ us; and even some who accept the Biblical history have advanced
 so little in harmonizing their faith with what they call their
 science, that they do not hesitate to suppose that man began his
 career, at least after the prevarication of Adam, in downright
-savagism. Even the learned Döllinger so far falls in with the
+savagism. Even the learned DÃ¶llinger so far falls in with the
 modern theory as to make polished gentilism originate in
 disgusting fetichism.
 
@@ -52059,7 +52037,7 @@ social progress. It requires language to invent language, and
 there is no individual progress out of society, and no society is
 possible without language. Hence, animals may be gregarious, but
 not sociable. They do not, and never can, form society. Max
-Müller has disposed of the bow-wow theory, or the origin of
+MÃ¼ller has disposed of the bow-wow theory, or the origin of
 language in the imitation of the cries of animals, and also of
 the theory that supposes it to originate in the imitation of the
 sounds of nature, as buzz, rattle, etc.; for if a few words could
@@ -52463,7 +52441,7 @@ He put aside the diary, and began reading Vogt's Physiological
 Letters_.
 
 At three o'clock precisely, Richard with the punctual doctor left
-Frankenhöhe. They passed through the chestnut grove and through
+FrankenhÃ¶he. They passed through the chestnut grove and through
 the vineyard toward Salingen. The doctor pushed on with long
 steps, his arms swinging back and forth. He was evidently pleased
 with the subject he had been reading. He had, on leaving the
@@ -52591,7 +52569,7 @@ doctor paused a moment and examined the flowers.
 colors?" said he. "And the forget-me-nots! What a deep religious
 meaning they have."
 
-They returned by another way to Frankenhöhe.
+They returned by another way to FrankenhÃ¶he.
 
 "Angela's pious work," began Richard after a long pause, "reminds
 me of a religious custom against which modern civilization has
@@ -53097,7 +53075,7 @@ While Klingenberg said this, a deep emotion passed over Richard's
 face. He did not answer the question, but let his head sink on
 his breast.
 
-"Here is Frankenhöhe," said the doctor. "As you make no more
+"Here is FrankenhÃ¶he," said the doctor. "As you make no more
 objections, I suppose you agree with me. The saints are great,
 admirable men; therefore they deserve monuments. They are models
 of virtue and the greatest benefactors of mankind; therefore they
@@ -53148,7 +53126,7 @@ Richard wrote in his diary:
   Glad-winged birds, from forest dim,
      Hither fly, where peace long-sought is;
      Sing melodious jubilates,
-  With the blessèd cherubim.
+  With the blessÃ¨d cherubim.
      Morning airs, come quick! with tender
      Thrill breathe on the branches slender;
         Breathe and hover!
@@ -53256,7 +53234,7 @@ claim.
 
 On his return from the French service to England, he was
 appointed, by Charles II., a general officer in the English army,
-then destined for Flanders, and had an annual pension of £500
+then destined for Flanders, and had an annual pension of Â£500
 settled on him for life, in consideration of his losses in
 France. But it is regarded as quite certain that he did not go to
 Flanders under this appointment, to defend and support the
@@ -53529,7 +53507,7 @@ to the lands in Albany, and then granted a charter to that town;
 and he endeavored to bring about the union of New Jersey and
 Connecticut, under one and the same government with New York, as
 a measure of public safety and strength. In 1686, the governor's
-salary was raised from £400 to £600 per annum. The governor's
+salary was raised from Â£400 to Â£600 per annum. The governor's
 residence was at the fort, and there was attached to the office
 the products or rents of a farm, called, at various times, the
 governor's, duke's, or king's farm, and of another smaller piece
@@ -53580,7 +53558,7 @@ colony is a document replete with intelligence, vigor, and
 practical experience, and shows that no part of the colony,
 however remote, escaped his attention and care; and no branch of
 the public service was neglected by him. Mr. Santen, the
-collector of the port, became a defaulter to the amount of £3000,
+collector of the port, became a defaulter to the amount of Â£3000,
 and was the occasion of great embarrassment and loss to Governor
 Dongan, who, however, on his part, acted promptly in the
 premises, by seizing the books of the delinquent official,
@@ -54078,7 +54056,7 @@ collector, because he was a Catholic. The people of Long Island
 deposed their magistrates and elected new ones, and despatched a
 large body of militia to New York, "to seize the fort, and keep
 off popery, French invasion, and slavery." The public money,
-amounting to £773 12s., had been deposited, for safe keeping, in
+amounting to Â£773 12s., had been deposited, for safe keeping, in
 the fort which was garrisoned by a few soldiers commanded by a
 Catholic ensign. In order to secure this treasure, the popular
 party assembled on the 2d of June, 1689, and seized the fort.
@@ -54178,7 +54156,7 @@ was introduced to William III. as successor of the late Earl of
 Limerick, and the new earl did homage to the king for his
 earldom, and, according to the feudal custom, kissed the king's
 hand on succeeding to the rank. He was allowed by the government,
-about the same time, £2500, in tallies, in part payment for
+about the same time, Â£2500, in tallies, in part payment for
 advances made by him for public purposes while governor of New
 York. His persevering efforts to recover the estates of his
 deceased brother so far finally succeeded as to induce the
@@ -54253,7 +54231,7 @@ masters. The prediction was beginning to be accomplished.
 
 It was a mild evening in the latter part of September, and a
 large company was assembled at the charming villa of the Baron
-Raimond von Wetzlar, situated near Schönbrunn. They had been
+Raimond von Wetzlar, situated near SchÃ¶nbrunn. They had been
 invited to be present at a musical contest between the celebrated
 Wolff and Beethoven. The part of Wolff was espoused with great
 enthusiasm by the baron; that of Beethoven by the Prince de
@@ -54658,7 +54636,7 @@ sunken eyes sparkled.
 sang in a low but distinct voice the lines from a hymn of his
 own:
 
-  "Brüder! über'm Sternenzelt,
+  "BrÃ¼der! Ã¼ber'm Sternenzelt,
    Muss ein lieber _Vater_ wohnen."
 
 In the last faint tone of
@@ -54698,18 +54676,18 @@ from human brotherhood.
   Though thralls of sin lie lingering in the grave,
   Yet faultless corse with soul reward must have.
 
-  The dazzled eye doth dimmèd light require,
+  The dazzled eye doth dimmÃ¨d light require,
     And dying sights repose in shrouding shades;
   But eagles' eyes to brightest light aspire,
     And living looks delight in lofty glades.
-  Faint-wingèd fowl by ground do faintly fly:
+  Faint-wingÃ¨d fowl by ground do faintly fly:
   Our princely eagle mounts unto the sky.
 
   Gem to her worth, spouse to her love ascends;
     Prince to her throne, queen to her heavenly king;
   Whose court with solemn pomp on her attends,
     And choirs of saints with greeting notes do sing.
-  Earth rendereth up her undeservèd prey:
+  Earth rendereth up her undeservÃ¨d prey:
   Heaven claims the right, and bears the prize away.
 
 			           Southwell.
@@ -55111,7 +55089,7 @@ have little to do with the moral sentiment which Adam Smith
 asserted, or the benevolence which Hucheson held to be the
 principle of morality. There is no approach to the Christian
 principle in the fine-spun sentiment of Bernardine Saint-Pierre,
-Madame de Staël, or Chateaubriand. Sentimentalism, in any form,
+Madame de StaÃ«l, or Chateaubriand. Sentimentalism, in any form,
 is wholly foreign to Christian morals and to Christian piety, and
 neither has probably a worse or a more dangerous enemy than the
 sentimentalism so rife in modern society, and which finds its way
@@ -55669,7 +55647,7 @@ their uneasiness, and ordered him south.
 The organist and his sister set out one day, hurrying their
 adieus as people who run away. When they were at the foot of the
 Alps in Italy, they stopped at a sunny little town, a day's
-journey from Milan, which we will call Arèse. Master Swibert was
+journey from Milan, which we will call ArÃ¨se. Master Swibert was
 then forty-four.
 
 How this man, who, till now, had lived more like a priest than a
@@ -55816,7 +55794,7 @@ her brother.
 
 {807}
 
-The little boy, named André, seemed to be of a gentle and even
+The little boy, named AndrÃ©, seemed to be of a gentle and even
 weak character. He was the same age as his cousin, but never was
 presented a more perfect contrast.
 
@@ -55908,7 +55886,7 @@ very high bridge. There, continuing to ascend, it makes a circuit
 over a plain of moderate extent, while a narrow and badly
 constructed road, bordering the sides of the ravine, leaves it to
 descend to the magnificent residence which, from time immemorial,
-belongs to the family of the Ligonieri. It is called the Château
+belongs to the family of the Ligonieri. It is called the ChÃ¢teau
 Sarrasin.
 
 A view unequalled presents itself from this elevation. Below it,
@@ -55960,8 +55938,8 @@ am going to relate.
 
 This evening, then, the organist and his two children had arrived
 on the elevation that commands the residence of the Ligonieri,
-and were looking about them. There was a _fête_ at the
-Château Sarrasin.
+and were looking about them. There was a _fÃªte_ at the
+ChÃ¢teau Sarrasin.
 
 The grand _salon_ of the ground floor was illuminated, and
 crowded with a brilliant assembly of guests. Long waves of light
@@ -56010,8 +55988,8 @@ and discover, also, in the future another abyss still more
 shadowed and more horrible, where, perhaps, will be lost the
 deeply-loved soul of his child.
 
-The guests of the Château Sarrasin heard two cries mingle with
-the joyousness of their _féte_. The organist seized his
+The guests of the ChÃ¢teau Sarrasin heard two cries mingle with
+the joyousness of their _fÃ©te_. The organist seized his
 child just at the moment when, from the edge of the precipice,
 she would have plunged into eternity.
 
@@ -56035,7 +56013,7 @@ happy he would be if at that moment she would appear. He said,
 The organist walked up and down his room, interrupting, from time
 to time, his monotonous promenade, to listen, in hopes of hearing
 a word, a creaking, a fluttering of a robe. He heard nothing but
-the uncertain step of André, wandering sad and lonely in the
+the uncertain step of AndrÃ©, wandering sad and lonely in the
 parts of the house least occupied.
 
 The hours passed. The organist still waited, his suffering
@@ -56203,7 +56181,7 @@ which had come from himself.
 
                   XVI.
 
-The moment came when André was to be submitted to the proof of a
+The moment came when AndrÃ© was to be submitted to the proof of a
 public education. His uncle considered such a course necessary to
 make him a man. It was decided that he should receive at the
 conservatory of Naples the classic traditions of Italian art. The
@@ -56274,7 +56252,7 @@ Excuse the blindness of a father, if you please.
 
                  XVII.
 
-When the time came for the children to part, André was overcome
+When the time came for the children to part, AndrÃ© was overcome
 in a manner which seemed incompatible with his nature, so
 ordinarily tranquil. The father and daughter returned alone, and
 lived afterward with no other company than themselves. They felt
@@ -56844,7 +56822,7 @@ since Messrs. Frankland and Lockyer, who have undertaken
 investigations on these important points, have not yet finished
 their labors; and what they have as yet communicated to the Royal
 Society of London, and the Academy of Sciences of Paris, is not
-sufficiently detailed. In 1864, Messrs. Plücker and Hittorf
+sufficiently detailed. In 1864, Messrs. PlÃ¼cker and Hittorf
 discovered that variations in temperature of some of the chemical
 elements, such as hydrogen, nitrogen, sulphur, and selenium,
 caused sudden changes in their spectra. At a certain degree of
@@ -57284,7 +57262,7 @@ circumstances to remain far from me in body.
 
 Fatigued with my long journey, you can imagine I was very glad
 when I reached this city. I hastened to find the _Rue du
-Prieuré_, a narrow, gloomy street, paved with cobble-stones,
+PrieurÃ©_, a narrow, gloomy street, paved with cobble-stones,
 cheerless and uninviting. But about half-way down, I saw a statue
 of Mary Most Pure, in a niche over a large doorway, with her
 all-embracing arms extended in welcome. That was a _sursum
@@ -57347,7 +57325,7 @@ Do you remember reading, in the _Chronicles_ of Sir John
 Froissart, of the Armagnacs, so long at enmity with the house of
 Foix? The first Count of Armagnac, was the founder of St. Oren's
 Priory. He was known by the name of Bernard _le Louche_. He
-made this city the capital of his _comté;_ and one of his
+made this city the capital of his _comtÃ©;_ and one of his
 first acts, after his establishment here, was to build this
 monastery. The old parchment in the archives of the priory, quite
 in accordance with the spirit of the times, runs thus:
@@ -57364,7 +57342,7 @@ in accordance with the spirit of the times, runs thus:
 The site selected for the erection of this monastery was on the
 banks of a branch of the Garonne, at the foot of an old city
 known in the time of the Caesars as Climberris, and built _en
-amphithéatre_, with superb terraces, upon the side of an
+amphithÃ©atre_, with superb terraces, upon the side of an
 elevation. It was fitting that the abbey, which Count Bernard had
 founded for the spiritual weal of himself and his posterity, and
 endowed with "lands and livings many a rood," should find shelter
@@ -57397,7 +57375,7 @@ abode hard by. Other saints too have lived on the same spot, and
 their bodies were enshrined hereon after their spirits had passed
 away.
 {831}
-St. Taurin, St. Oren, St. Léothade, St. Austinde, names ever
+St. Taurin, St. Oren, St. LÃ©othade, St. Austinde, names ever
 venerable to the heart of an Auscitain, living in the shadow of
 your shrines, sheltered by your votaries who merit for me your
 protection, I should be ungrateful to you, untrue to my own
@@ -57462,7 +57440,7 @@ forty-five of these symbolical names in seven verses. Clement of
 Alexandria, in his hymn to our Saviour, gives ten. St. Cyril
 mentions twelve, in a sermon.
 {832}
-The list of St. Phébade of Agen, in the fourth century, comprises
+The list of St. PhÃ©bade of Agen, in the fourth century, comprises
 twenty-one. The _Nomenclature_ of Constantinople mentions
 twelve; that of Rome, twenty-two; but that of St. Oren, composed
 in his solitude of Bigorre, gives, in five distichs, fifty-two of
@@ -57537,7 +57515,7 @@ pursued him and brought him back to his post, where his piety,
 his talents, and the miracles he wrought, gave him preeminence
 among all the bishops of Aquitaine. When Theodoric I., King of
 the Visigoths, was besieged at Toulouse, by Lictorius, lieutenant
-of the celebrated Aétius, the former sent St. Oren, with several
+of the celebrated AÃ©tius, the former sent St. Oren, with several
 other bishops, to arrange terms of peace with the Roman
 commander. Lictorius received them with haughty contempt, and,
 sure of victory, rejected all their propositions. Then Theodoric
@@ -57588,9 +57566,9 @@ of the Algersius. At the foot, toward the south, lies the convent
 garden, with its wells, its almond-trees, acacias, vines, and
 rose-bushes--loved haunts of the nightingales, which I heard
 there for the first time in my life. On the east passes the
-_route impériale_, beneath the very convent walls, and
+_route impÃ©riale_, beneath the very convent walls, and
 beyond, parallel with it, flows the river which gives its name to
-the _département_. Centuries ago, when the country was more
+the _dÃ©partement_. Centuries ago, when the country was more
 thickly wooded, it is said to have been a navigable river, and
 merited to be sung by Fortunatus, who was a poet as well as
 bishop. The eastern bank is shaded by a long grove of noble
@@ -57674,7 +57652,7 @@ between natural affection and a sense of duty which produced so
 violent a fever. This act of self-denial affected me deeply.
 
 One Saturday, at about half-past eight in the morning, I was
-hastily summoned by the Mère St. J---- to go to the infirmary,
+hastily summoned by the MÃ¨re St. J---- to go to the infirmary,
 for Sister Sophie was dying. I hurried down. Poor Sophie lay,
 ghastly white, with her crucifix in her hands. Her rosary and
 girdle lay, on the bed, at the foot of which was placed an
@@ -57683,12 +57661,12 @@ opening of which reposed a dove--emblem of the soul that trusts
 in the Saviour. She was perfectly calm. There was not a sign of
 apprehension. Her brother-in-law, who was her physician, stood by
 her bedside, and said she could not survive the day. Her
-confessor, the Abbé de B----, a venerable priest of more than
+confessor, the AbbÃ© de B----, a venerable priest of more than
 four score years, asked if she had any thing on her conscience.
 She shook her head. Her soul was clad in its pure bridal robe,
 ready for the marriage supper of the Lamb. All went to the
 chapel, and, with lighted tapers, two and two, followed the holy
-viaticum to the infirmary. It was borne by the _curé_ in a
+viaticum to the infirmary. It was borne by the _curÃ©_ in a
 silver ciborium, and placed on an altar erected in the middle of
 the room. It was a most solemn scene--the nuns kneeling all
 around with wax tapers in their hands, their heads bowed down in
@@ -57768,7 +57746,7 @@ which they went in procession to the cemetery.
 {836}
 First were three acolytes, the middle one bearing an immense
 silver cross, which gleamed aloft in the departing sunlight; and
-the other two bore the censer and the _bénitier;_ then came
+the other two bore the censer and the _bÃ©nitier;_ then came
 the priests, two and two, chanting the _Miserere_. The
 coffin followed, borne on a bier by six peasant women dressed in
 white, with curious white caps and kerchiefs. Their sepulchral
@@ -57833,7 +57811,7 @@ to refrain from an 'Ora pro nobis!'"
 In this chapel Mary has been honored for ages. The chronicles of
 the priory tell us that in the days of the monks of St. Benedict
 crowds of the faithful filled, as now, this chapel on the eighth
-of December, its patronal _féte_. The deep-toned voices that
+of December, its patronal _fÃ©te_. The deep-toned voices that
 then chanted the praises of Mary have died away, but the notes
 have been caught up and continued in softer, sweeter tones by the
 lips of the spouses of Christ.
@@ -57884,7 +57862,7 @@ church, and
 The _Suisse_, who was an old soldier under Napoleon I., and
 was in the Russian campaign, locked us in, free to wander at will
 and unremarked in this vast cathedral, with the excellent
-_Monographie_ by the learned Abbé Canéto in hand. At the
+_Monographie_ by the learned AbbÃ© CanÃ©to in hand. At the
 very portal we passed over the tomb of an old archbishop, who
 wished through humility to be buried under the pavement of the
 principal entrance to the church, that he might be trodden under
@@ -58030,11 +58008,11 @@ have the ears to understand it." As Longfellow says:
   interpretation, Upward, the vision and mystery!"
 
 In the undercroft of the cathedral reposes, among other saints,
-the body of St. Léothade. He was of royal blood, being a near
+the body of St. LÃ©othade. He was of royal blood, being a near
 relative of Eudes, Duke of Aquitaine, who was of the race of
 Clotaire II. He was also related to Charles Martel, and to the
 well-known sylvan saint, Hubert, who was contemporary with St.
-Léothade, and a native of this part of France. St. Léothade
+LÃ©othade, and a native of this part of France. St. LÃ©othade
 embraced the monastic state early in life, and, after being abbot
 at Moissac, was called to govern this diocese, which he did for
 twenty-seven years. In the wars between Charles Martel and Eudes
@@ -58045,13 +58023,13 @@ Auscitains.
 His tomb is all sculptured with the symbols of our Saviour--the
 fish, wine, etc.
 
-St. Léothade is invoked in various diseases, particularly for
+St. LÃ©othade is invoked in various diseases, particularly for
 epilepsy.
 
-Through the kindness of the _mère prieure_ I had the
+Through the kindness of the _mÃ¨re prieure_ I had the
 privilege of assisting at the office of Holy Week at St. Mary's
 Cathedral. I witnessed all those affecting rites from the
-_jubé_, or rood-loft, which is reached by a dark, winding
+_jubÃ©_, or rood-loft, which is reached by a dark, winding
 stairway in one of the huge pillars. My position was one of
 seclusion, and yet overlooked both the choir and the nave. To
 fully appreciate the ceremonies of the church, one must witness
@@ -58136,12 +58114,12 @@ from the valley, but rather ugly when one has mounted the weary
 flights of steps, and gained its heart. The streets are mostly
 narrow and treeless, but there are two promenades with fine old
 trees, and the public buildings are a credit to the place. There
-is a _grand_ and _petit séminiaire_ here, a lyceum,
+is a _grand_ and _petit sÃ©miniaire_ here, a lyceum,
 normal school, two boarding-schools, besides several day and free
 schools; so there is no lack for means of instruction.
 
 The famous Nostradamus, renowned for his _Centuries
-prophétiques_, was once a professor in this place. And St.
+prophÃ©tiques_, was once a professor in this place. And St.
 Francis Regis was regent of the Jesuits' college which was here
 before the suppression of that order in the last century.
 
@@ -58187,10 +58165,10 @@ On Easter-Sunday I saw something at St. Mary's quite new to me.
 After mass, a basket of bread was blessed, broken in pieces, and
 passed around the church. All took a piece, made the sign of the
 cross, and said a short prayer before eating it. This _pain
-bénti_ is in commemoration of the _Agapae_ of the
+bÃ©nti_ is in commemoration of the _Agapae_ of the
 primitive Christians, I suppose. It is a common custom here.
 While still at our devotions, a man came around with a dish,
-saying in a queer, sing-song tone, _Pour les ámes du
+saying in a queer, sing-song tone, _Pour les Ã¡mes du
 Purgatoire_, (For the souls in purgatory,) and offered the
 dish as if doing you a favor to receive your mite, which,
 perhaps, was right enough.
@@ -58259,7 +58237,7 @@ taken prisoner, and had to pay a ransom of one thousand livres.
 Count Bernard VII. is the most famous of the Armagnacs. He was
 the fifteenth count. His daughter Bonne married Charles, Duke of
 Orleans, then only nineteen years of age, and the son of the Duc
-d'Orléans who was killed by Jean-sans-peur, Duke of Burgundy.
+d'OrlÃ©ans who was killed by Jean-sans-peur, Duke of Burgundy.
 Count Bernard became, by the youth of his son-in-law, the head of
 the Orleans faction against the Burgundians. He was made
 constable of France in 1415. To the dignity of supreme commander
@@ -58310,19 +58288,19 @@ the place.
 The lands of Count John were united to the crown of France. His
 brother Charles, who had been kept prisoner for fifteen years,
 was finally restored to liberty, and to the possession of the
-Comté d'Armagnac in 1483. He married Jane of Foix, who had no
+ComtÃ© d'Armagnac in 1483. He married Jane of Foix, who had no
 children; but he left a natural son, the Baron de Caussade, whose
 only son, George d'Armagnac, embraced the ecclesiastical state,
 and became a cardinal. He was the last of the male line of the
 Armagnacs.
 
-The Comté d'Armagnac was afterward given by Louis XII. as the
+The ComtÃ© d'Armagnac was afterward given by Louis XII. as the
 dowry of his niece, Margaret of Valois, when she married Charles
-d'Alençon, the grandson of Marie d'Armagnac, daughter of Count
+d'AlenÃ§on, the grandson of Marie d'Armagnac, daughter of Count
 John IV. Charles dying without children, Margaret married Henri
 d'Albret, King of Navarre, who descended from a daughter of Count
 Bernard VII. of Armagnac. Henri Quatre, King of France, was their
-grandson, and from his time the Comté d'Armagnac has been
+grandson, and from his time the ComtÃ© d'Armagnac has been
 permanently united to the crown.
 
 Louis XIV., after consummating his marriage at St. Jean de Luz,
@@ -58343,7 +58321,7 @@ nostris!_"
 
 
 Last evening I went to the cathedral to hear Hermann improvise
-upon the organ, or, I should say, Frère Augustin, for he is a
+upon the organ, or, I should say, FrÃ¨re Augustin, for he is a
 barefooted Carmelite monk. He was the favorite pupil of Liszt,
 under whose instructions he became a celebrated musical artist
 and composer. He was miraculously converted at Paris some years
@@ -58362,7 +58340,7 @@ which the tongue knows not how to express. That of Hermann
 partakes of the enthusiasm and tenderness of his nature.
 
 I stationed myself at the baptismal font, that I might see the
-frère as he came down from the tribune. He was dressed in the
+frÃ¨re as he came down from the tribune. He was dressed in the
 costume of his order, which is of the natural color of the wool.
 His cowl was thrown back. His head was shaven closely with the
 exception of a circlet of hair, as we see in pictures. He is an
@@ -58378,8 +58356,8 @@ beautiful, particularly the one entitled _Quam dilecta
 Tabernacula Tua!_ I quote two verses from it:
 
   "Ils ne sont plus les jours de larmes:
-     J'ai retrouvé la paix du coeur
-   Depuis que j'ai goûté les charmes
+     J'ai retrouvÃ© la paix du coeur
+   Depuis que j'ai goÃ»tÃ© les charmes
      Des tabernacles du Seigneur!
 
   "Trop long-temps, brebis fugitive,
@@ -58960,7 +58938,7 @@ in the next number of _The Catholic World_.
 _Fernan Caballero._ Here I am, Aunt Sebastiana, with a fixed
 intention to make you tell me a story.
 
-_Aunt Sebastiana_. Say that to my Juan, señor; he can tell
+_Aunt Sebastiana_. Say that to my Juan, seÃ±or; he can tell
 no end of stories, and when he don't remember them, he makes them
 to suit himself.
 
@@ -58968,7 +58946,7 @@ _Fernan_. Here comes Uncle Romance, who, if he wants a cigar
 and desires to give me pleasure, will tell me the story you have
 promised me in his name.
 
-_Uncle Romance_. You must know then, señor, that there was
+_Uncle Romance_. You must know then, seÃ±or, that there was
 once a man who lived gayly, without thinking of to-morrow; and,
 since to spend, to owe, and not to pay, is the way to the
 poorhouse, our man soon found himself without _hacienda_,
@@ -59023,7 +59001,7 @@ the little fairy-man, appearing in the form of a cavalier, in the
 crotch of the tree. "Hang myself like a string of garlics from a
 kitchen ceiling," answered Uncle Curro quite composedly. "So you
 have lost patience, again?" "And if I have nothing to eat,
-señor?" "' It is your own fault, your fault; but--go away. Take
+seÃ±or?" "' It is your own fault, your fault; but--go away. Take
 this table-cloth, and while you keep it you will never find
 yourself without something to eat." Then the little fairy-man
 gave him a table-cloth, and disappeared among the branches.
@@ -59584,363 +59562,4 @@ Roman periodical,
 End of the Project Gutenberg EBook of The Catholic World, Vol. 09, April,
 1869-September, 1869, by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK CATHOLIC WORLD, APR/1869-SEPT/1869 ***
-
-***** This file should be named 57439-8.txt or 57439-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/7/4/3/57439/
-
-Produced by Don Kostuch
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 57439 ***
